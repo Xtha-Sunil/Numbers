@@ -1,0 +1,5 @@
+Number: 2 
+Word: two 
+Binary: 0b10 
+Octal: 0o2 
+Hex: 0x2
