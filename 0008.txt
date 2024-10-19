@@ -1,0 +1,5 @@
+Number: 8 
+Word: eight 
+Binary: 0b1000 
+Octal: 0o10 
+Hex: 0x8
