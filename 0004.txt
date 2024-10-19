@@ -1,0 +1,5 @@
+Number: 4 
+Word: four 
+Binary: 0b100 
+Octal: 0o4 
+Hex: 0x4
