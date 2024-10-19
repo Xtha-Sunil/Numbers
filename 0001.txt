@@ -1,0 +1,5 @@
+Number: 1 
+Word: one 
+Binary: 0b1 
+Octal: 0o1 
+Hex: 0x1
