@@ -1,0 +1,5 @@
+Number: 165 
+Word: one hundred and sixty-five 
+Binary: 0b10100101 
+Octal: 0o245 
+Hex: 0xa5
