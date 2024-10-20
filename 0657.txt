@@ -1,0 +1,5 @@
+Number: 657 
+Word: six hundred and fifty-seven 
+Binary: 0b1010010001 
+Octal: 0o1221 
+Hex: 0x291
