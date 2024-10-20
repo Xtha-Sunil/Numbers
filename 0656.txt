@@ -1,0 +1,5 @@
+Number: 656 
+Word: six hundred and fifty-six 
+Binary: 0b1010010000 
+Octal: 0o1220 
+Hex: 0x290
