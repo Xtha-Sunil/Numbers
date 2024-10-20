@@ -1,0 +1,5 @@
+Number: 88 
+Word: eighty-eight 
+Binary: 0b1011000 
+Octal: 0o130 
+Hex: 0x58
