@@ -1,0 +1,5 @@
+Number: 643 
+Word: six hundred and forty-three 
+Binary: 0b1010000011 
+Octal: 0o1203 
+Hex: 0x283
