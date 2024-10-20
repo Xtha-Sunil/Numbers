@@ -1,0 +1,5 @@
+Number: 321 
+Word: three hundred and twenty-one 
+Binary: 0b101000001 
+Octal: 0o501 
+Hex: 0x141
