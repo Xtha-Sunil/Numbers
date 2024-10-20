@@ -1,0 +1,5 @@
+Number: 199 
+Word: one hundred and ninety-nine 
+Binary: 0b11000111 
+Octal: 0o307 
+Hex: 0xc7
