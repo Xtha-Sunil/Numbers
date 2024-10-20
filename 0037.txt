@@ -1,0 +1,5 @@
+Number: 37 
+Word: thirty-seven 
+Binary: 0b100101 
+Octal: 0o45 
+Hex: 0x25
