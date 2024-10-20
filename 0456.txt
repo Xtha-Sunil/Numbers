@@ -1,0 +1,5 @@
+Number: 456 
+Word: four hundred and fifty-six 
+Binary: 0b111001000 
+Octal: 0o710 
+Hex: 0x1c8
