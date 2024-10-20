@@ -1,0 +1,5 @@
+Number: 176 
+Word: one hundred and seventy-six 
+Binary: 0b10110000 
+Octal: 0o260 
+Hex: 0xb0
