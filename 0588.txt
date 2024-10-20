@@ -1,0 +1,5 @@
+Number: 588 
+Word: five hundred and eighty-eight 
+Binary: 0b1001001100 
+Octal: 0o1114 
+Hex: 0x24c
