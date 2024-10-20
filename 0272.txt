@@ -1,0 +1,5 @@
+Number: 272 
+Word: two hundred and seventy-two 
+Binary: 0b100010000 
+Octal: 0o420 
+Hex: 0x110
