@@ -1,0 +1,5 @@
+Number: 28 
+Word: twenty-eight 
+Binary: 0b11100 
+Octal: 0o34 
+Hex: 0x1c
