@@ -1,0 +1,5 @@
+Number: 65 
+Word: sixty-five 
+Binary: 0b1000001 
+Octal: 0o101 
+Hex: 0x41
