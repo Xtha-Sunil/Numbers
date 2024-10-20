@@ -1,0 +1,5 @@
+Number: 180 
+Word: one hundred and eighty 
+Binary: 0b10110100 
+Octal: 0o264 
+Hex: 0xb4
