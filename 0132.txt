@@ -1,0 +1,5 @@
+Number: 132 
+Word: one hundred and thirty-two 
+Binary: 0b10000100 
+Octal: 0o204 
+Hex: 0x84
