@@ -1,0 +1,5 @@
+Number: 70 
+Word: seventy 
+Binary: 0b1000110 
+Octal: 0o106 
+Hex: 0x46
