@@ -1,0 +1,5 @@
+Number: 229 
+Word: two hundred and twenty-nine 
+Binary: 0b11100101 
+Octal: 0o345 
+Hex: 0xe5
