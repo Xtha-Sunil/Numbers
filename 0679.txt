@@ -1,0 +1,5 @@
+Number: 679 
+Word: six hundred and seventy-nine 
+Binary: 0b1010100111 
+Octal: 0o1247 
+Hex: 0x2a7
