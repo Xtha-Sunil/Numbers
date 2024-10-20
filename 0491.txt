@@ -1,0 +1,5 @@
+Number: 491 
+Word: four hundred and ninety-one 
+Binary: 0b111101011 
+Octal: 0o753 
+Hex: 0x1eb
