@@ -1,0 +1,5 @@
+Number: 221 
+Word: two hundred and twenty-one 
+Binary: 0b11011101 
+Octal: 0o335 
+Hex: 0xdd
