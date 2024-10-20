@@ -1,0 +1,5 @@
+Number: 128 
+Word: one hundred and twenty-eight 
+Binary: 0b10000000 
+Octal: 0o200 
+Hex: 0x80

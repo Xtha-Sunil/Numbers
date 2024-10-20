@@ -1,0 +1,5 @@
+Number: 126 
+Word: one hundred and twenty-six 
+Binary: 0b1111110 
+Octal: 0o176 
+Hex: 0x7e

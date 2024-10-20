@@ -1,0 +1,5 @@
+Number: 610
+Word: Six hundred ten
+Binary: 0b1001100010
+Octal: 0o1142
+Hex: 0x262

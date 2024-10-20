@@ -1,0 +1,5 @@
+Number: 448 
+Word: four hundred and forty-eight 
+Binary: 0b111000000 
+Octal: 0o700 
+Hex: 0x1c0

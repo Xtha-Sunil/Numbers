@@ -1,0 +1,5 @@
+Number: 533 
+Word: five hundred and thirty-three 
+Binary: 0b1000010101 
+Octal: 0o1025 
+Hex: 0x215

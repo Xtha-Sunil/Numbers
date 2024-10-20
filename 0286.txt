@@ -1,0 +1,5 @@
+Number: 286 
+Word: two hundred and eighty-six 
+Binary: 0b100011110 
+Octal: 0o436 
+Hex: 0x11e

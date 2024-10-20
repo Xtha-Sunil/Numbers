@@ -1,0 +1,5 @@
+Number: 607
+Word: Six hundred seven
+Binary: 0b1001011111
+Octal: 0o1137
+Hex: 0x25F

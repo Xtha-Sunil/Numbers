@@ -1,0 +1,5 @@
+Number: 395 
+Word: three hundred and ninety-five 
+Binary: 0b110001011 
+Octal: 0o613 
+Hex: 0x18b

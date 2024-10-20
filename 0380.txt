@@ -1,0 +1,5 @@
+Number: 380 
+Word: three hundred and eighty 
+Binary: 0b101111100 
+Octal: 0o574 
+Hex: 0x17c

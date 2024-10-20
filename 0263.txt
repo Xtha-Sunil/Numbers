@@ -1,0 +1,5 @@
+Number: 263 
+Word: two hundred and sixty-three 
+Binary: 0b100000111 
+Octal: 0o407 
+Hex: 0x107

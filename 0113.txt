@@ -1,0 +1,5 @@
+Number: 113 
+Word: one hundred and thirteen 
+Binary: 0b1110001 
+Octal: 0o161 
+Hex: 0x71

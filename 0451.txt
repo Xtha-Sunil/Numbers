@@ -1,0 +1,5 @@
+Number: 451 
+Word: four hundred and fifty-one 
+Binary: 0b111000011 
+Octal: 0o703 
+Hex: 0x1c3

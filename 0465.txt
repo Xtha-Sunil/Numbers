@@ -1,0 +1,5 @@
+Number: 465 
+Word: four hundred and sixty-five 
+Binary: 0b111010001 
+Octal: 0o721 
+Hex: 0x1d1

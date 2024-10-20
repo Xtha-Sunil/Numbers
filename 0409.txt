@@ -1,0 +1,5 @@
+Number: 409 
+Word: four hundred and nine 
+Binary: 0b110011001 
+Octal: 0o631 
+Hex: 0x199

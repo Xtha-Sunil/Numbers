@@ -1,0 +1,5 @@
+Number: 458 
+Word: four hundred and fifty-eight 
+Binary: 0b111001010 
+Octal: 0o712 
+Hex: 0x1ca

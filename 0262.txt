@@ -1,0 +1,5 @@
+Number: 262 
+Word: two hundred and sixty-two 
+Binary: 0b100000110 
+Octal: 0o406 
+Hex: 0x106

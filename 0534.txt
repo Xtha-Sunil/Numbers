@@ -1,0 +1,5 @@
+Number: 534 
+Word: five hundred and thirty-four 
+Binary: 0b1000010110 
+Octal: 0o1026 
+Hex: 0x216

@@ -1,0 +1,5 @@
+Number: 521 
+Word: five hundred and twenty-one 
+Binary: 0b1000001001 
+Octal: 0o1011 
+Hex: 0x209

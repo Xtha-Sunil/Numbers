@@ -1,0 +1,5 @@
+Number: 502 
+Word: five hundred and two 
+Binary: 0b111110110 
+Octal: 0o766 
+Hex: 0x1f6

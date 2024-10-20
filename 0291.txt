@@ -1,0 +1,5 @@
+Number: 291 
+Word: two hundred and ninety-one 
+Binary: 0b100100011 
+Octal: 0o443 
+Hex: 0x123

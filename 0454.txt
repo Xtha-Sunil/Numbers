@@ -1,0 +1,5 @@
+Number: 454 
+Word: four hundred and fifty-four 
+Binary: 0b111000110 
+Octal: 0o706 
+Hex: 0x1c6

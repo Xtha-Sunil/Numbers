@@ -1,0 +1,5 @@
+Number: 303 
+Word: three hundred and three 
+Binary: 0b100101111 
+Octal: 0o457 
+Hex: 0x12f

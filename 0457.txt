@@ -1,0 +1,5 @@
+Number: 457 
+Word: four hundred and fifty-seven 
+Binary: 0b111001001 
+Octal: 0o711 
+Hex: 0x1c9

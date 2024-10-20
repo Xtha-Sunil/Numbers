@@ -1,0 +1,5 @@
+Number: 415 
+Word: four hundred and fifteen 
+Binary: 0b110011111 
+Octal: 0o637 
+Hex: 0x19f

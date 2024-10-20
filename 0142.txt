@@ -1,0 +1,5 @@
+Number: 142 
+Word: one hundred and forty-two 
+Binary: 0b10001110 
+Octal: 0o216 
+Hex: 0x8e

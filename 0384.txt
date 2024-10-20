@@ -1,0 +1,5 @@
+Number: 384 
+Word: three hundred and eighty-four 
+Binary: 0b110000000 
+Octal: 0o600 
+Hex: 0x180

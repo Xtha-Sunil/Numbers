@@ -1,0 +1,5 @@
+Number: 473 
+Word: four hundred and seventy-three 
+Binary: 0b111011001 
+Octal: 0o731 
+Hex: 0x1d9

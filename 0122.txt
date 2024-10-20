@@ -1,0 +1,5 @@
+Number: 122 
+Word: one hundred and twenty-two 
+Binary: 0b1111010 
+Octal: 0o172 
+Hex: 0x7a

@@ -1,0 +1,5 @@
+Number: 118 
+Word: one hundred and eighteen 
+Binary: 0b1110110 
+Octal: 0o166 
+Hex: 0x76

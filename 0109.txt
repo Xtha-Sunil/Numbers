@@ -1,0 +1,5 @@
+Number: 109 
+Word: one hundred and nine 
+Binary: 0b1101101 
+Octal: 0o155 
+Hex: 0x6d

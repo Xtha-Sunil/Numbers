@@ -1,0 +1,5 @@
+Number: 138 
+Word: one hundred and thirty-eight 
+Binary: 0b10001010 
+Octal: 0o212 
+Hex: 0x8a

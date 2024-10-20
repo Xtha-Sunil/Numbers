@@ -1,0 +1,5 @@
+Number: 341 
+Word: three hundred and forty-one 
+Binary: 0b101010101 
+Octal: 0o525 
+Hex: 0x155

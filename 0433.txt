@@ -1,0 +1,5 @@
+Number: 433 
+Word: four hundred and thirty-three 
+Binary: 0b110110001 
+Octal: 0o661 
+Hex: 0x1b1

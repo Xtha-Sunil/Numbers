@@ -1,0 +1,5 @@
+Number: 542 
+Word: five hundred and forty-two 
+Binary: 0b1000011110 
+Octal: 0o1036 
+Hex: 0x21e

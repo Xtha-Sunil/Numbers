@@ -1,0 +1,5 @@
+Number: 344 
+Word: three hundred and forty-four 
+Binary: 0b101011000 
+Octal: 0o530 
+Hex: 0x158

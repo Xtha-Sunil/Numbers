@@ -1,0 +1,5 @@
+Number: 393 
+Word: three hundred and ninety-three 
+Binary: 0b110001001 
+Octal: 0o611 
+Hex: 0x189

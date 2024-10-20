@@ -1,0 +1,5 @@
+Number: 261 
+Word: two hundred and sixty-one 
+Binary: 0b100000101 
+Octal: 0o405 
+Hex: 0x105

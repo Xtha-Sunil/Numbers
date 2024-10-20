@@ -1,0 +1,5 @@
+Number: 523 
+Word: five hundred and twenty-three 
+Binary: 0b1000001011 
+Octal: 0o1013 
+Hex: 0x20b

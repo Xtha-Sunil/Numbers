@@ -1,0 +1,5 @@
+Number: 280 
+Word: two hundred and eighty 
+Binary: 0b100011000 
+Octal: 0o430 
+Hex: 0x118

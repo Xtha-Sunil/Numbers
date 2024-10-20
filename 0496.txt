@@ -1,0 +1,5 @@
+Number: 496 
+Word: four hundred and ninety-six 
+Binary: 0b111110000 
+Octal: 0o760 
+Hex: 0x1f0

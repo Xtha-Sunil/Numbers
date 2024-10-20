@@ -1,0 +1,5 @@
+Number: 398 
+Word: three hundred and ninety-eight 
+Binary: 0b110001110 
+Octal: 0o616 
+Hex: 0x18e

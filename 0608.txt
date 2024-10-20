@@ -1,0 +1,5 @@
+Number: 608
+Word: Six hundred eight
+Binary: 0b1001100000
+Octal: 0o1140
+Hex: 0x260

@@ -1,0 +1,5 @@
+Number: 376 
+Word: three hundred and seventy-six 
+Binary: 0b101111000 
+Octal: 0o570 
+Hex: 0x178

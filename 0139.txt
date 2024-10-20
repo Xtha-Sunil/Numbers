@@ -1,0 +1,5 @@
+Number: 139 
+Word: one hundred and thirty-nine 
+Binary: 0b10001011 
+Octal: 0o213 
+Hex: 0x8b

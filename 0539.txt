@@ -1,0 +1,5 @@
+Number: 539 
+Word: five hundred and thirty-nine 
+Binary: 0b1000011011 
+Octal: 0o1033 
+Hex: 0x21b

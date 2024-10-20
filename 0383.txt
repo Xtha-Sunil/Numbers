@@ -1,0 +1,5 @@
+Number: 383 
+Word: three hundred and eighty-three 
+Binary: 0b101111111 
+Octal: 0o577 
+Hex: 0x17f

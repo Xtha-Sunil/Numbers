@@ -1,0 +1,5 @@
+Number: 300 
+Word: three hundred 
+Binary: 0b100101100 
+Octal: 0o454 
+Hex: 0x12c

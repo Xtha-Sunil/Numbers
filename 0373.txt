@@ -1,0 +1,5 @@
+Number: 373 
+Word: three hundred and seventy-three 
+Binary: 0b101110101 
+Octal: 0o565 
+Hex: 0x175

@@ -1,0 +1,5 @@
+Number: 356 
+Word: three hundred and fifty-six 
+Binary: 0b101100100 
+Octal: 0o544 
+Hex: 0x164

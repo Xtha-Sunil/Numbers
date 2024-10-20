@@ -1,0 +1,5 @@
+Number: 507 
+Word: five hundred and seven 
+Binary: 0b111111011 
+Octal: 0o773 
+Hex: 0x1fb

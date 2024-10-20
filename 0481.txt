@@ -1,0 +1,5 @@
+Number: 481 
+Word: four hundred and eighty-one 
+Binary: 0b111100001 
+Octal: 0o741 
+Hex: 0x1e1

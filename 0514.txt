@@ -1,0 +1,5 @@
+Number: 514 
+Word: five hundred and fourteen 
+Binary: 0b1000000010 
+Octal: 0o1002 
+Hex: 0x202

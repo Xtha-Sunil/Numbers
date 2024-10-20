@@ -1,0 +1,5 @@
+Number: 412 
+Word: four hundred and twelve 
+Binary: 0b110011100 
+Octal: 0o634 
+Hex: 0x19c

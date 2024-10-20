@@ -1,0 +1,5 @@
+Number: 389 
+Word: three hundred and eighty-nine 
+Binary: 0b110000101 
+Octal: 0o605 
+Hex: 0x185

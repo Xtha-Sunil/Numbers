@@ -1,0 +1,5 @@
+Number: 325 
+Word: three hundred and twenty-five 
+Binary: 0b101000101 
+Octal: 0o505 
+Hex: 0x145

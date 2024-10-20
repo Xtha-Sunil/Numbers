@@ -1,0 +1,5 @@
+Number: 268 
+Word: two hundred and sixty-eight 
+Binary: 0b100001100 
+Octal: 0o414 
+Hex: 0x10c

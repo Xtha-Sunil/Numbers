@@ -1,0 +1,5 @@
+Number: 474 
+Word: four hundred and seventy-four 
+Binary: 0b111011010 
+Octal: 0o732 
+Hex: 0x1da

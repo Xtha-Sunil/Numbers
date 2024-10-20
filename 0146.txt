@@ -1,0 +1,5 @@
+Number: 146 
+Word: one hundred and forty-six 
+Binary: 0b10010010 
+Octal: 0o222 
+Hex: 0x92

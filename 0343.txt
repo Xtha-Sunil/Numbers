@@ -1,0 +1,5 @@
+Number: 343 
+Word: three hundred and forty-three 
+Binary: 0b101010111 
+Octal: 0o527 
+Hex: 0x157

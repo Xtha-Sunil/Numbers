@@ -1,0 +1,5 @@
+Number: 429 
+Word: four hundred and twenty-nine 
+Binary: 0b110101101 
+Octal: 0o655 
+Hex: 0x1ad

@@ -1,0 +1,5 @@
+Number: 604
+Word: Six hundred four
+Binary: 0b1001011100
+Octal: 0o1134
+Hex: 0x25C

@@ -1,0 +1,5 @@
+Number: 427 
+Word: four hundred and twenty-seven 
+Binary: 0b110101011 
+Octal: 0o653 
+Hex: 0x1ab

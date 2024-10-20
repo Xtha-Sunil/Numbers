@@ -1,0 +1,5 @@
+Number: 527 
+Word: five hundred and twenty-seven 
+Binary: 0b1000001111 
+Octal: 0o1017 
+Hex: 0x20f

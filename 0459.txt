@@ -1,0 +1,5 @@
+Number: 459 
+Word: four hundred and fifty-nine 
+Binary: 0b111001011 
+Octal: 0o713 
+Hex: 0x1cb

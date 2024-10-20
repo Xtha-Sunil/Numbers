@@ -1,0 +1,5 @@
+Number: 133 
+Word: one hundred and thirty-three 
+Binary: 0b10000101 
+Octal: 0o205 
+Hex: 0x85

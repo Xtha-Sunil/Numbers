@@ -1,0 +1,5 @@
+Number: 497 
+Word: four hundred and ninety-seven 
+Binary: 0b111110001 
+Octal: 0o761 
+Hex: 0x1f1

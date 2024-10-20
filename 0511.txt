@@ -1,0 +1,5 @@
+Number: 511 
+Word: five hundred and eleven 
+Binary: 0b111111111 
+Octal: 0o777 
+Hex: 0x1ff

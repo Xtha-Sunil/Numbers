@@ -1,0 +1,5 @@
+Number: 424 
+Word: four hundred and twenty-four 
+Binary: 0b110101000 
+Octal: 0o650 
+Hex: 0x1a8

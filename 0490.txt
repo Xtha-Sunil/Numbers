@@ -1,0 +1,5 @@
+Number: 490 
+Word: four hundred and ninety 
+Binary: 0b111101010 
+Octal: 0o752 
+Hex: 0x1ea

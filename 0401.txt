@@ -1,0 +1,5 @@
+Number: 401 
+Word: four hundred and one 
+Binary: 0b110010001 
+Octal: 0o621 
+Hex: 0x191

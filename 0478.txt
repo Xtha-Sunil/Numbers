@@ -1,0 +1,5 @@
+Number: 478 
+Word: four hundred and seventy-eight 
+Binary: 0b111011110 
+Octal: 0o736 
+Hex: 0x1de
