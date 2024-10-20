@@ -1,0 +1,5 @@
+Number: 583 
+Word: five hundred and eighty-three 
+Binary: 0b1001000111 
+Octal: 0o1107 
+Hex: 0x247
