@@ -1,0 +1,5 @@
+Number: 618 
+Word: six hundred and eighteen 
+Binary: 0b1001101010 
+Octal: 0o1152 
+Hex: 0x26a
