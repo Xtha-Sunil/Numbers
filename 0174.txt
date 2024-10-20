@@ -1,0 +1,5 @@
+Number: 174 
+Word: one hundred and seventy-four 
+Binary: 0b10101110 
+Octal: 0o256 
+Hex: 0xae
