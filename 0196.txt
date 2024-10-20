@@ -1,0 +1,5 @@
+Number: 196 
+Word: one hundred and ninety-six 
+Binary: 0b11000100 
+Octal: 0o304 
+Hex: 0xc4
