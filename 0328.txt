@@ -1,0 +1,5 @@
+Number: 328 
+Word: three hundred and twenty-eight 
+Binary: 0b101001000 
+Octal: 0o510 
+Hex: 0x148
