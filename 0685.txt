@@ -1,0 +1,5 @@
+Number: 685 
+Word: six hundred and eighty-five 
+Binary: 0b1010101101 
+Octal: 0o1255 
+Hex: 0x2ad
