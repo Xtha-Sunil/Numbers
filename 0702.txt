@@ -1,0 +1,5 @@
+Number: 702 
+Word: seven hundred and two 
+Binary: 0b1010111110 
+Octal: 0o1276 
+Hex: 0x2be
