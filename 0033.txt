@@ -1,0 +1,5 @@
+Number: 33 
+Word: thirty-three 
+Binary: 0b100001 
+Octal: 0o41 
+Hex: 0x21
