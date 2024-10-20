@@ -1,0 +1,5 @@
+Number: 124 
+Word: one hundred and twenty-four 
+Binary: 0b1111100 
+Octal: 0o174 
+Hex: 0x7c
