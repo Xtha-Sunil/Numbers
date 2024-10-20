@@ -1,0 +1,5 @@
+Number: 659 
+Word: six hundred and fifty-nine 
+Binary: 0b1010010011 
+Octal: 0o1223 
+Hex: 0x293
