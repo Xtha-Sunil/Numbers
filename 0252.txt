@@ -1,0 +1,5 @@
+Number: 252 
+Word: two hundred and fifty-two 
+Binary: 0b11111100 
+Octal: 0o374 
+Hex: 0xfc
