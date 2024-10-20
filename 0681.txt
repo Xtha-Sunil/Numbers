@@ -1,0 +1,5 @@
+Number: 681 
+Word: six hundred and eighty-one 
+Binary: 0b1010101001 
+Octal: 0o1251 
+Hex: 0x2a9
