@@ -1,0 +1,5 @@
+Number: 468 
+Word: four hundred and sixty-eight 
+Binary: 0b111010100 
+Octal: 0o724 
+Hex: 0x1d4
