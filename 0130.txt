@@ -1,0 +1,5 @@
+Number: 130 
+Word: one hundred and thirty 
+Binary: 0b10000010 
+Octal: 0o202 
+Hex: 0x82
