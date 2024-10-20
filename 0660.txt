@@ -1,0 +1,5 @@
+Number: 660 
+Word: six hundred and sixty 
+Binary: 0b1010010100 
+Octal: 0o1224 
+Hex: 0x294
