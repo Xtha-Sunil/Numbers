@@ -1,0 +1,5 @@
+Number: 178 
+Word: one hundred and seventy-eight 
+Binary: 0b10110010 
+Octal: 0o262 
+Hex: 0xb2
