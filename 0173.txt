@@ -1,0 +1,5 @@
+Number: 173 
+Word: one hundred and seventy-three 
+Binary: 0b10101101 
+Octal: 0o255 
+Hex: 0xad
