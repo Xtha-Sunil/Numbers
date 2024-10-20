@@ -1,0 +1,5 @@
+Number: 160 
+Word: one hundred and sixty 
+Binary: 0b10100000 
+Octal: 0o240 
+Hex: 0xa0
