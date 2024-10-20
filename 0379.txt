@@ -1,0 +1,5 @@
+Number: 379 
+Word: three hundred and seventy-nine 
+Binary: 0b101111011 
+Octal: 0o573 
+Hex: 0x17b
