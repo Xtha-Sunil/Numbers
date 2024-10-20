@@ -1,0 +1,5 @@
+Number: 91 
+Word: ninety-one 
+Binary: 0b1011011 
+Octal: 0o133 
+Hex: 0x5b
