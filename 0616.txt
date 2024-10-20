@@ -1,0 +1,5 @@
+Number: 616 
+Word: six hundred and sixteen 
+Binary: 0b1001101000 
+Octal: 0o1150 
+Hex: 0x268
