@@ -1,0 +1,5 @@
+Number: 227 
+Word: two hundred and twenty-seven 
+Binary: 0b11100011 
+Octal: 0o343 
+Hex: 0xe3
