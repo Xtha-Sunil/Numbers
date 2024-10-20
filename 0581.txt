@@ -1,0 +1,5 @@
+Number: 581 
+Word: five hundred and eighty-one 
+Binary: 0b1001000101 
+Octal: 0o1105 
+Hex: 0x245
