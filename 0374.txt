@@ -1,0 +1,5 @@
+Number: 374 
+Word: three hundred and seventy-four 
+Binary: 0b101110110 
+Octal: 0o566 
+Hex: 0x176
