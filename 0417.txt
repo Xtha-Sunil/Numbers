@@ -1,0 +1,5 @@
+Number: 417 
+Word: four hundred and seventeen 
+Binary: 0b110100001 
+Octal: 0o641 
+Hex: 0x1a1
