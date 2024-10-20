@@ -1,0 +1,5 @@
+Number: 704 
+Word: seven hundred and four 
+Binary: 0b1011000000 
+Octal: 0o1300 
+Hex: 0x2c0
