@@ -1,0 +1,5 @@
+Number: 333 
+Word: three hundred and thirty-three 
+Binary: 0b101001101 
+Octal: 0o515 
+Hex: 0x14d
