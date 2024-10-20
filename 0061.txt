@@ -1,0 +1,5 @@
+Number: 61 
+Word: sixty-one 
+Binary: 0b111101 
+Octal: 0o75 
+Hex: 0x3d
