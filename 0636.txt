@@ -1,0 +1,5 @@
+Number: 636 
+Word: six hundred and thirty-six 
+Binary: 0b1001111100 
+Octal: 0o1174 
+Hex: 0x27c
