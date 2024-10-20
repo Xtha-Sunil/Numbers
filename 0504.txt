@@ -1,0 +1,5 @@
+Number: 504 
+Word: five hundred and four 
+Binary: 0b111111000 
+Octal: 0o770 
+Hex: 0x1f8
