@@ -1,0 +1,5 @@
+Number: 601
+Word: Six hundred one
+Binary: 0b1001011001
+Octal: 0o1131
+Hex: 0x259
