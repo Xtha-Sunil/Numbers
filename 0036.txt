@@ -1,0 +1,5 @@
+Number: 36 
+Word: thirty-six 
+Binary: 0b100100 
+Octal: 0o44 
+Hex: 0x24
