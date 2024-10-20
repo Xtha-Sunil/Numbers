@@ -1,0 +1,5 @@
+Number: 254 
+Word: two hundred and fifty-four 
+Binary: 0b11111110 
+Octal: 0o376 
+Hex: 0xfe
