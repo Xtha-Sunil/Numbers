@@ -1,0 +1,5 @@
+Number: 216 
+Word: two hundred and sixteen 
+Binary: 0b11011000 
+Octal: 0o330 
+Hex: 0xd8
