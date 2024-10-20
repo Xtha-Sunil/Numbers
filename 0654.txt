@@ -1,0 +1,5 @@
+Number: 654 
+Word: six hundred and fifty-four 
+Binary: 0b1010001110 
+Octal: 0o1216 
+Hex: 0x28e
