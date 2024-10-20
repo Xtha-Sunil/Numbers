@@ -1,0 +1,5 @@
+Number: 240 
+Word: two hundred and forty 
+Binary: 0b11110000 
+Octal: 0o360 
+Hex: 0xf0
