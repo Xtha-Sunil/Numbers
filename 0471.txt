@@ -1,0 +1,5 @@
+Number: 471 
+Word: four hundred and seventy-one 
+Binary: 0b111010111 
+Octal: 0o727 
+Hex: 0x1d7
