@@ -1,0 +1,5 @@
+Number: 526 
+Word: five hundred and twenty-six 
+Binary: 0b1000001110 
+Octal: 0o1016 
+Hex: 0x20e
