@@ -1,0 +1,5 @@
+Number: 609
+Word: Six hundred nine
+Binary: 0b1001100001
+Octal: 0o1141
+Hex: 0x261
