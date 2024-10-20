@@ -1,0 +1,5 @@
+Number: 566 
+Word: five hundred and sixty-six 
+Binary: 0b1000110110 
+Octal: 0o1066 
+Hex: 0x236
