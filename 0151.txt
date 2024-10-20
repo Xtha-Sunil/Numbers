@@ -1,0 +1,5 @@
+Number: 151 
+Word: one hundred and fifty-one 
+Binary: 0b10010111 
+Octal: 0o227 
+Hex: 0x97
