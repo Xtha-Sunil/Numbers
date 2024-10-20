@@ -1,0 +1,5 @@
+Number: 177 
+Word: one hundred and seventy-seven 
+Binary: 0b10110001 
+Octal: 0o261 
+Hex: 0xb1
