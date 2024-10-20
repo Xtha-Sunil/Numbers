@@ -1,0 +1,5 @@
+Number: 673 
+Word: six hundred and seventy-three 
+Binary: 0b1010100001 
+Octal: 0o1241 
+Hex: 0x2a1
