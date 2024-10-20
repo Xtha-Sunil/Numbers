@@ -1,0 +1,5 @@
+Number: 358 
+Word: three hundred and fifty-eight 
+Binary: 0b101100110 
+Octal: 0o546 
+Hex: 0x166
