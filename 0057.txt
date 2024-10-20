@@ -1,0 +1,5 @@
+Number: 57 
+Word: fifty-seven 
+Binary: 0b111001 
+Octal: 0o71 
+Hex: 0x39
