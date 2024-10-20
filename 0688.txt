@@ -1,0 +1,5 @@
+Number: 688 
+Word: six hundred and eighty-eight 
+Binary: 0b1010110000 
+Octal: 0o1260 
+Hex: 0x2b0
