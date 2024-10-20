@@ -1,0 +1,5 @@
+Number: 710
+Word: seven hundred and ten
+Binary: 0b1011000110
+Octal: 0o1306
+Hex: 0x2c6
