@@ -1,0 +1,5 @@
+Number: 143 
+Word: one hundred and forty-three 
+Binary: 0b10001111 
+Octal: 0o217 
+Hex: 0x8f
