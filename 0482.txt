@@ -1,0 +1,5 @@
+Number: 482 
+Word: four hundred and eighty-two 
+Binary: 0b111100010 
+Octal: 0o742 
+Hex: 0x1e2
