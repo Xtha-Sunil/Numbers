@@ -1,0 +1,5 @@
+Number: 167 
+Word: one hundred and sixty-seven 
+Binary: 0b10100111 
+Octal: 0o247 
+Hex: 0xa7
