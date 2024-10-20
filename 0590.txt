@@ -1,0 +1,5 @@
+Number: 590 
+Word: five hundred and ninety 
+Binary: 0b1001001110 
+Octal: 0o1116 
+Hex: 0x24e
