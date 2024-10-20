@@ -1,0 +1,5 @@
+Number: 153 
+Word: one hundred and fifty-three 
+Binary: 0b10011001 
+Octal: 0o231 
+Hex: 0x99
