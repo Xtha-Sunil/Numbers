@@ -1,0 +1,5 @@
+Number: 403 
+Word: four hundred and three 
+Binary: 0b110010011 
+Octal: 0o623 
+Hex: 0x193
