@@ -1,0 +1,5 @@
+Number: 338 
+Word: three hundred and thirty-eight 
+Binary: 0b101010010 
+Octal: 0o522 
+Hex: 0x152
