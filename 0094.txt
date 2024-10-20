@@ -1,0 +1,5 @@
+Number: 94 
+Word: ninety-four 
+Binary: 0b1011110 
+Octal: 0o136 
+Hex: 0x5e
