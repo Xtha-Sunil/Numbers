@@ -1,0 +1,5 @@
+Number: 475 
+Word: four hundred and seventy-five 
+Binary: 0b111011011 
+Octal: 0o733 
+Hex: 0x1db
