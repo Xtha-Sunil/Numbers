@@ -1,0 +1,5 @@
+Number: 49 
+Word: forty-nine 
+Binary: 0b110001 
+Octal: 0o61 
+Hex: 0x31
