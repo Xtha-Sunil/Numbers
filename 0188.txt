@@ -1,0 +1,5 @@
+Number: 188 
+Word: one hundred and eighty-eight 
+Binary: 0b10111100 
+Octal: 0o274 
+Hex: 0xbc
