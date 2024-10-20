@@ -1,0 +1,5 @@
+Number: 348 
+Word: three hundred and forty-eight 
+Binary: 0b101011100 
+Octal: 0o534 
+Hex: 0x15c
