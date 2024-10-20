@@ -1,0 +1,5 @@
+Number: 517 
+Word: five hundred and seventeen 
+Binary: 0b1000000101 
+Octal: 0o1005 
+Hex: 0x205
