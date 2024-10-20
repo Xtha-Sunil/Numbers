@@ -1,0 +1,5 @@
+Number: 638 
+Word: six hundred and thirty-eight 
+Binary: 0b1001111110 
+Octal: 0o1176 
+Hex: 0x27e
