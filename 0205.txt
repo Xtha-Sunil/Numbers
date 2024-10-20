@@ -1,0 +1,5 @@
+Number: 205 
+Word: two hundred and five 
+Binary: 0b11001101 
+Octal: 0o315 
+Hex: 0xcd
