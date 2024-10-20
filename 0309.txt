@@ -1,0 +1,5 @@
+Number: 309 
+Word: three hundred and nine 
+Binary: 0b100110101 
+Octal: 0o465 
+Hex: 0x135
