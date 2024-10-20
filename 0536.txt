@@ -1,0 +1,5 @@
+Number: 536 
+Word: five hundred and thirty-six 
+Binary: 0b1000011000 
+Octal: 0o1030 
+Hex: 0x218
