@@ -1,0 +1,5 @@
+Number: 378 
+Word: three hundred and seventy-eight 
+Binary: 0b101111010 
+Octal: 0o572 
+Hex: 0x17a
