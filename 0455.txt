@@ -1,0 +1,5 @@
+Number: 455 
+Word: four hundred and fifty-five 
+Binary: 0b111000111 
+Octal: 0o707 
+Hex: 0x1c7
