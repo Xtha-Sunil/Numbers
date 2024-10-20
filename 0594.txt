@@ -1,0 +1,5 @@
+Number: 594 
+Word: five hundred and ninety-four 
+Binary: 0b1001010010 
+Octal: 0o1122 
+Hex: 0x252
