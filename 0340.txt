@@ -1,0 +1,5 @@
+Number: 340 
+Word: three hundred and forty 
+Binary: 0b101010100 
+Octal: 0o524 
+Hex: 0x154
