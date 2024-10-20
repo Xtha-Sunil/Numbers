@@ -1,0 +1,5 @@
+Number: 584 
+Word: five hundred and eighty-four 
+Binary: 0b1001001000 
+Octal: 0o1110 
+Hex: 0x248
