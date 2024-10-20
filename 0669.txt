@@ -1,0 +1,5 @@
+Number: 669 
+Word: six hundred and sixty-nine 
+Binary: 0b1010011101 
+Octal: 0o1235 
+Hex: 0x29d
