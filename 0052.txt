@@ -1,0 +1,5 @@
+Number: 52 
+Word: fifty-two 
+Binary: 0b110100 
+Octal: 0o64 
+Hex: 0x34
