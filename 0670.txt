@@ -1,0 +1,5 @@
+Number: 670 
+Word: six hundred and seventy 
+Binary: 0b1010011110 
+Octal: 0o1236 
+Hex: 0x29e
