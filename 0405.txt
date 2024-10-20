@@ -1,0 +1,5 @@
+Number: 405 
+Word: four hundred and five 
+Binary: 0b110010101 
+Octal: 0o625 
+Hex: 0x195
