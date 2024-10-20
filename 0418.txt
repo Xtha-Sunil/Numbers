@@ -1,0 +1,5 @@
+Number: 418 
+Word: four hundred and eighteen 
+Binary: 0b110100010 
+Octal: 0o642 
+Hex: 0x1a2
