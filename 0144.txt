@@ -1,0 +1,5 @@
+Number: 144 
+Word: one hundred and forty-four 
+Binary: 0b10010000 
+Octal: 0o220 
+Hex: 0x90
