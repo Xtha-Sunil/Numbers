@@ -1,0 +1,5 @@
+Number: 628 
+Word: six hundred and twenty-eight 
+Binary: 0b1001110100 
+Octal: 0o1164 
+Hex: 0x274
