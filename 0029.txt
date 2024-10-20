@@ -1,0 +1,5 @@
+Number: 29 
+Word: twenty-nine 
+Binary: 0b11101 
+Octal: 0o35 
+Hex: 0x1d
