@@ -1,0 +1,5 @@
+Number: 90 
+Word: ninety 
+Binary: 0b1011010 
+Octal: 0o132 
+Hex: 0x5a
