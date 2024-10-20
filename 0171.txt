@@ -1,0 +1,5 @@
+Number: 171 
+Word: one hundred and seventy-one 
+Binary: 0b10101011 
+Octal: 0o253 
+Hex: 0xab
