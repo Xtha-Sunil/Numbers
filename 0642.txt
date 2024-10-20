@@ -1,0 +1,5 @@
+Number: 642 
+Word: six hundred and forty-two 
+Binary: 0b1010000010 
+Octal: 0o1202 
+Hex: 0x282
