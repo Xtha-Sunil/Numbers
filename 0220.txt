@@ -1,0 +1,5 @@
+Number: 220 
+Word: two hundred and twenty 
+Binary: 0b11011100 
+Octal: 0o334 
+Hex: 0xdc
