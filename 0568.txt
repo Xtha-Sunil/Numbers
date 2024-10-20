@@ -1,0 +1,5 @@
+Number: 568 
+Word: five hundred and sixty-eight 
+Binary: 0b1000111000 
+Octal: 0o1070 
+Hex: 0x238
