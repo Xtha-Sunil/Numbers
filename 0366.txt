@@ -1,0 +1,5 @@
+Number: 366 
+Word: three hundred and sixty-six 
+Binary: 0b101101110 
+Octal: 0o556 
+Hex: 0x16e
