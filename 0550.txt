@@ -1,0 +1,5 @@
+Number: 550 
+Word: five hundred and fifty 
+Binary: 0b1000100110 
+Octal: 0o1046 
+Hex: 0x226
