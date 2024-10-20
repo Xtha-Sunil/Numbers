@@ -1,0 +1,5 @@
+Number: 463 
+Word: four hundred and sixty-three 
+Binary: 0b111001111 
+Octal: 0o717 
+Hex: 0x1cf
