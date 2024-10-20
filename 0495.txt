@@ -1,0 +1,5 @@
+Number: 495 
+Word: four hundred and ninety-five 
+Binary: 0b111101111 
+Octal: 0o757 
+Hex: 0x1ef
