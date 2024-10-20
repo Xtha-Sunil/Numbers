@@ -1,0 +1,5 @@
+Number: 369 
+Word: three hundred and sixty-nine 
+Binary: 0b101110001 
+Octal: 0o561 
+Hex: 0x171
