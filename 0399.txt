@@ -1,0 +1,5 @@
+Number: 399 
+Word: three hundred and ninety-nine 
+Binary: 0b110001111 
+Octal: 0o617 
+Hex: 0x18f
