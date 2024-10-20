@@ -1,0 +1,5 @@
+Number: 349 
+Word: three hundred and forty-nine 
+Binary: 0b101011101 
+Octal: 0o535 
+Hex: 0x15d
