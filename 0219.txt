@@ -1,0 +1,5 @@
+Number: 219 
+Word: two hundred and nineteen 
+Binary: 0b11011011 
+Octal: 0o333 
+Hex: 0xdb
