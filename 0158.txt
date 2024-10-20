@@ -1,0 +1,5 @@
+Number: 158 
+Word: one hundred and fifty-eight 
+Binary: 0b10011110 
+Octal: 0o236 
+Hex: 0x9e
