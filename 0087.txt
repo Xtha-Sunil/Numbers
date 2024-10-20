@@ -1,0 +1,5 @@
+Number: 87 
+Word: eighty-seven 
+Binary: 0b1010111 
+Octal: 0o127 
+Hex: 0x57
