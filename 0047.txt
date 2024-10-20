@@ -1,0 +1,5 @@
+Number: 47 
+Word: forty-seven 
+Binary: 0b101111 
+Octal: 0o57 
+Hex: 0x2f
