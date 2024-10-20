@@ -1,0 +1,5 @@
+Number: 469 
+Word: four hundred and sixty-nine 
+Binary: 0b111010101 
+Octal: 0o725 
+Hex: 0x1d5
