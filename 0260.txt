@@ -1,0 +1,5 @@
+Number: 260 
+Word: two hundred and sixty 
+Binary: 0b100000100 
+Octal: 0o404 
+Hex: 0x104
