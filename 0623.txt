@@ -1,0 +1,5 @@
+Number: 623 
+Word: six hundred and twenty-three 
+Binary: 0b1001101111 
+Octal: 0o1157 
+Hex: 0x26f
