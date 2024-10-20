@@ -1,0 +1,5 @@
+Number: 193 
+Word: one hundred and ninety-three 
+Binary: 0b11000001 
+Octal: 0o301 
+Hex: 0xc1
