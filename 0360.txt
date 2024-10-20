@@ -1,0 +1,5 @@
+Number: 360 
+Word: three hundred and sixty 
+Binary: 0b101101000 
+Octal: 0o550 
+Hex: 0x168
