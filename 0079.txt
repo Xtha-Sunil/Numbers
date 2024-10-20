@@ -1,0 +1,5 @@
+Number: 79 
+Word: seventy-nine 
+Binary: 0b1001111 
+Octal: 0o117 
+Hex: 0x4f
