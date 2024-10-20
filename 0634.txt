@@ -1,0 +1,5 @@
+Number: 634 
+Word: six hundred and thirty-four 
+Binary: 0b1001111010 
+Octal: 0o1172 
+Hex: 0x27a
