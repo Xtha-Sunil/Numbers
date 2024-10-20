@@ -1,0 +1,5 @@
+Number: 166 
+Word: one hundred and sixty-six 
+Binary: 0b10100110 
+Octal: 0o246 
+Hex: 0xa6
