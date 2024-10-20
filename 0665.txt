@@ -1,0 +1,5 @@
+Number: 665 
+Word: six hundred and sixty-five 
+Binary: 0b1010011001 
+Octal: 0o1231 
+Hex: 0x299
