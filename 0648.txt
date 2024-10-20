@@ -1,0 +1,5 @@
+Number: 648 
+Word: six hundred and forty-eight 
+Binary: 0b1010001000 
+Octal: 0o1210 
+Hex: 0x288
