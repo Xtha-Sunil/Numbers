@@ -1,0 +1,5 @@
+Number: 106 
+Word: one hundred and six 
+Binary: 0b1101010 
+Octal: 0o152 
+Hex: 0x6a
