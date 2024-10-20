@@ -1,0 +1,5 @@
+Number: 652 
+Word: six hundred and fifty-two 
+Binary: 0b1010001100 
+Octal: 0o1214 
+Hex: 0x28c
