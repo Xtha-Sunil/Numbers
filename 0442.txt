@@ -1,0 +1,5 @@
+Number: 442 
+Word: four hundred and forty-two 
+Binary: 0b110111010 
+Octal: 0o672 
+Hex: 0x1ba
