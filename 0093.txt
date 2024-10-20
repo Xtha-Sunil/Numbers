@@ -1,0 +1,5 @@
+Number: 93 
+Word: ninety-three 
+Binary: 0b1011101 
+Octal: 0o135 
+Hex: 0x5d
