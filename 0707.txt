@@ -1,0 +1,5 @@
+Number: 707 
+Word: seven hundred and seven 
+Binary: 0b1011000011 
+Octal: 0o1303 
+Hex: 0x2c3
