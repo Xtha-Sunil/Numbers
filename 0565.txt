@@ -1,0 +1,5 @@
+Number: 565 
+Word: five hundred and sixty-five 
+Binary: 0b1000110101 
+Octal: 0o1065 
+Hex: 0x235

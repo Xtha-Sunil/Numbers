@@ -1,0 +1,5 @@
+Number: 555 
+Word: five hundred and fifty-five 
+Binary: 0b1000101011 
+Octal: 0o1053 
+Hex: 0x22b

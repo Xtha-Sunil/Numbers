@@ -1,0 +1,5 @@
+Number: 570 
+Word: five hundred and seventy 
+Binary: 0b1000111010 
+Octal: 0o1072 
+Hex: 0x23a

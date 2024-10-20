@@ -1,0 +1,5 @@
+Number: 567 
+Word: five hundred and sixty-seven 
+Binary: 0b1000110111 
+Octal: 0o1067 
+Hex: 0x237

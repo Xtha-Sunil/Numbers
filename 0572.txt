@@ -1,0 +1,5 @@
+Number: 572 
+Word: five hundred and seventy-two 
+Binary: 0b1000111100 
+Octal: 0o1074 
+Hex: 0x23c

@@ -1,0 +1,5 @@
+Number: 560 
+Word: five hundred and sixty 
+Binary: 0b1000110000 
+Octal: 0o1060 
+Hex: 0x230

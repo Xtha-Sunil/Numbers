@@ -1,0 +1,5 @@
+Number: 558 
+Word: five hundred and fifty-eight 
+Binary: 0b1000101110 
+Octal: 0o1056 
+Hex: 0x22e

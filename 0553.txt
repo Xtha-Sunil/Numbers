@@ -1,0 +1,5 @@
+Number: 553 
+Word: five hundred and fifty-three 
+Binary: 0b1000101001 
+Octal: 0o1051 
+Hex: 0x229

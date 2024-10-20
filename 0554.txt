@@ -1,0 +1,5 @@
+Number: 554 
+Word: five hundred and fifty-four 
+Binary: 0b1000101010 
+Octal: 0o1052 
+Hex: 0x22a

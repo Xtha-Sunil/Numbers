@@ -1,0 +1,5 @@
+Number: 552 
+Word: five hundred and fifty-two 
+Binary: 0b1000101000 
+Octal: 0o1050 
+Hex: 0x228
