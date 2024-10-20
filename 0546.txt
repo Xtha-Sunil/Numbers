@@ -1,0 +1,5 @@
+Number: 546 
+Word: five hundred and forty-six 
+Binary: 0b1000100010 
+Octal: 0o1042 
+Hex: 0x222
