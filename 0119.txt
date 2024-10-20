@@ -1,0 +1,5 @@
+Number: 119 
+Word: one hundred and nineteen 
+Binary: 0b1110111 
+Octal: 0o167 
+Hex: 0x77
