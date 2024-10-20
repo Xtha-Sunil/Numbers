@@ -1,0 +1,5 @@
+Number: 312 
+Word: three hundred and twelve 
+Binary: 0b100111000 
+Octal: 0o470 
+Hex: 0x138
