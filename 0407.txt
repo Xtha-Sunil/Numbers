@@ -1,0 +1,5 @@
+Number: 407 
+Word: four hundred and seven 
+Binary: 0b110010111 
+Octal: 0o627 
+Hex: 0x197
