@@ -1,0 +1,5 @@
+Number: 100 
+Word: one hundred 
+Binary: 0b1100100 
+Octal: 0o144 
+Hex: 0x64
