@@ -1,0 +1,5 @@
+Number: 698 
+Word: six hundred and ninety-eight 
+Binary: 0b1010111010 
+Octal: 0o1272 
+Hex: 0x2ba
