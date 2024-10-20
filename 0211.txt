@@ -1,0 +1,5 @@
+Number: 211 
+Word: two hundred and eleven 
+Binary: 0b11010011 
+Octal: 0o323 
+Hex: 0xd3
