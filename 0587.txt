@@ -1,0 +1,5 @@
+Number: 587 
+Word: five hundred and eighty-seven 
+Binary: 0b1001001011 
+Octal: 0o1113 
+Hex: 0x24b
