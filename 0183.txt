@@ -1,0 +1,5 @@
+Number: 183 
+Word: one hundred and eighty-three 
+Binary: 0b10110111 
+Octal: 0o267 
+Hex: 0xb7
