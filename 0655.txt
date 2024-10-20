@@ -1,0 +1,5 @@
+Number: 655 
+Word: six hundred and fifty-five 
+Binary: 0b1010001111 
+Octal: 0o1217 
+Hex: 0x28f
