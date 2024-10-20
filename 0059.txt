@@ -1,0 +1,5 @@
+Number: 59 
+Word: fifty-nine 
+Binary: 0b111011 
+Octal: 0o73 
+Hex: 0x3b
