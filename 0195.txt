@@ -1,0 +1,5 @@
+Number: 195 
+Word: one hundred and ninety-five 
+Binary: 0b11000011 
+Octal: 0o303 
+Hex: 0xc3
