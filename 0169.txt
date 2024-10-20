@@ -1,0 +1,5 @@
+Number: 169 
+Word: one hundred and sixty-nine 
+Binary: 0b10101001 
+Octal: 0o251 
+Hex: 0xa9
