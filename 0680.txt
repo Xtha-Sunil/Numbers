@@ -1,0 +1,5 @@
+Number: 680 
+Word: six hundred and eighty 
+Binary: 0b1010101000 
+Octal: 0o1250 
+Hex: 0x2a8
