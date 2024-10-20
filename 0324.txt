@@ -1,0 +1,5 @@
+Number: 324 
+Word: three hundred and twenty-four 
+Binary: 0b101000100 
+Octal: 0o504 
+Hex: 0x144
