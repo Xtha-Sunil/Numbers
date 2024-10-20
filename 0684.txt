@@ -1,0 +1,5 @@
+Number: 684 
+Word: six hundred and eighty-four 
+Binary: 0b1010101100 
+Octal: 0o1254 
+Hex: 0x2ac
