@@ -1,0 +1,5 @@
+Number: 182 
+Word: one hundred and eighty-two 
+Binary: 0b10110110 
+Octal: 0o266 
+Hex: 0xb6
