@@ -1,0 +1,5 @@
+Number: 501 
+Word: five hundred and one 
+Binary: 0b111110101 
+Octal: 0o765 
+Hex: 0x1f5
