@@ -1,0 +1,5 @@
+Number: 573 
+Word: five hundred and seventy-three 
+Binary: 0b1000111101 
+Octal: 0o1075 
+Hex: 0x23d
