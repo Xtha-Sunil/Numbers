@@ -1,0 +1,5 @@
+Number: 339 
+Word: three hundred and thirty-nine 
+Binary: 0b101010011 
+Octal: 0o523 
+Hex: 0x153
