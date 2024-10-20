@@ -1,0 +1,5 @@
+Number: 708 
+Word: seven hundred and eight 
+Binary: 0b1011000100 
+Octal: 0o1304 
+Hex: 0x2c4
