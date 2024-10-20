@@ -1,0 +1,5 @@
+Number: 299 
+Word: two hundred and ninety-nine 
+Binary: 0b100101011 
+Octal: 0o453 
+Hex: 0x12b
