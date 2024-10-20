@@ -1,0 +1,5 @@
+Number: 666 
+Word: six hundred and sixty-six 
+Binary: 0b1010011010 
+Octal: 0o1232 
+Hex: 0x29a
