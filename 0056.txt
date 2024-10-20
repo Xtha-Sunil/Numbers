@@ -1,0 +1,5 @@
+Number: 56 
+Word: fifty-six 
+Binary: 0b111000 
+Octal: 0o70 
+Hex: 0x38
