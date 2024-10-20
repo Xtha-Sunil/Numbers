@@ -1,0 +1,5 @@
+Number: 672 
+Word: six hundred and seventy-two 
+Binary: 0b1010100000 
+Octal: 0o1240 
+Hex: 0x2a0
