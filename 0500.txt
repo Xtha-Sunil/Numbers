@@ -1,0 +1,5 @@
+Number: 500 
+Word: five hundred 
+Binary: 0b111110100 
+Octal: 0o764 
+Hex: 0x1f4
