@@ -1,0 +1,5 @@
+Number: 231 
+Word: two hundred and thirty-one 
+Binary: 0b11100111 
+Octal: 0o347 
+Hex: 0xe7
