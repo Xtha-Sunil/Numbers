@@ -1,0 +1,5 @@
+Number: 466 
+Word: four hundred and sixty-six 
+Binary: 0b111010010 
+Octal: 0o722 
+Hex: 0x1d2
