@@ -1,0 +1,5 @@
+Number: 154 
+Word: one hundred and fifty-four 
+Binary: 0b10011010 
+Octal: 0o232 
+Hex: 0x9a
