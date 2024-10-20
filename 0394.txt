@@ -1,0 +1,5 @@
+Number: 394 
+Word: three hundred and ninety-four 
+Binary: 0b110001010 
+Octal: 0o612 
+Hex: 0x18a
