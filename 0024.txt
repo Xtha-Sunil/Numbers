@@ -1,0 +1,5 @@
+Number: 24 
+Word: twenty-four 
+Binary: 0b11000 
+Octal: 0o30 
+Hex: 0x18
