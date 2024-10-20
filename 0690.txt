@@ -1,0 +1,5 @@
+Number: 690 
+Word: six hundred and ninety 
+Binary: 0b1010110010 
+Octal: 0o1262 
+Hex: 0x2b2
