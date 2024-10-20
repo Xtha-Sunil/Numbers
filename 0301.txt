@@ -1,0 +1,5 @@
+Number: 301 
+Word: three hundred and one 
+Binary: 0b100101101 
+Octal: 0o455 
+Hex: 0x12d
