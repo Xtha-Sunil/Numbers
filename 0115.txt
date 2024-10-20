@@ -1,0 +1,5 @@
+Number: 115 
+Word: one hundred and fifteen 
+Binary: 0b1110011 
+Octal: 0o163 
+Hex: 0x73
