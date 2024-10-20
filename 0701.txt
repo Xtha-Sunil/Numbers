@@ -1,0 +1,5 @@
+Number: 701 
+Word: seven hundred and one 
+Binary: 0b1010111101 
+Octal: 0o1275 
+Hex: 0x2bd
