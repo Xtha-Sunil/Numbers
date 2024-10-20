@@ -1,0 +1,5 @@
+Number: 163 
+Word: one hundred and sixty-three 
+Binary: 0b10100011 
+Octal: 0o243 
+Hex: 0xa3
