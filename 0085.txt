@@ -1,0 +1,5 @@
+Number: 85 
+Word: eighty-five 
+Binary: 0b1010101 
+Octal: 0o125 
+Hex: 0x55
