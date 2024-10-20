@@ -1,0 +1,5 @@
+Number: 479 
+Word: four hundred and seventy-nine 
+Binary: 0b111011111 
+Octal: 0o737 
+Hex: 0x1df
