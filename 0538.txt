@@ -1,0 +1,5 @@
+Number: 538 
+Word: five hundred and thirty-eight 
+Binary: 0b1000011010 
+Octal: 0o1032 
+Hex: 0x21a
