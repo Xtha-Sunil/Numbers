@@ -1,0 +1,5 @@
+Number: 44 
+Word: forty-four 
+Binary: 0b101100 
+Octal: 0o54 
+Hex: 0x2c
