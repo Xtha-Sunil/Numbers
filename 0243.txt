@@ -1,0 +1,5 @@
+Number: 243 
+Word: two hundred and forty-three 
+Binary: 0b11110011 
+Octal: 0o363 
+Hex: 0xf3
