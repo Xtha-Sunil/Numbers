@@ -1,0 +1,5 @@
+Number: 630 
+Word: six hundred and thirty 
+Binary: 0b1001110110 
+Octal: 0o1166 
+Hex: 0x276
