@@ -1,0 +1,5 @@
+Number: 353 
+Word: three hundred and fifty-three 
+Binary: 0b101100001 
+Octal: 0o541 
+Hex: 0x161
