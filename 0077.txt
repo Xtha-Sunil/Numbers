@@ -1,0 +1,5 @@
+Number: 77 
+Word: seventy-seven 
+Binary: 0b1001101 
+Octal: 0o115 
+Hex: 0x4d
