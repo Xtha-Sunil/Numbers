@@ -1,0 +1,5 @@
+Number: 305 
+Word: three hundred and five 
+Binary: 0b100110001 
+Octal: 0o461 
+Hex: 0x131
