@@ -1,0 +1,5 @@
+Number: 640 
+Word: six hundred and forty 
+Binary: 0b1010000000 
+Octal: 0o1200 
+Hex: 0x280
