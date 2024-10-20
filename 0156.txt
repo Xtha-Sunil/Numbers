@@ -1,0 +1,5 @@
+Number: 156 
+Word: one hundred and fifty-six 
+Binary: 0b10011100 
+Octal: 0o234 
+Hex: 0x9c
