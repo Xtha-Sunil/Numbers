@@ -1,0 +1,5 @@
+Number: 489 
+Word: four hundred and eighty-nine 
+Binary: 0b111101001 
+Octal: 0o751 
+Hex: 0x1e9
