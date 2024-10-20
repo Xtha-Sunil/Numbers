@@ -1,0 +1,5 @@
+Number: 64 
+Word: sixty-four 
+Binary: 0b1000000 
+Octal: 0o100 
+Hex: 0x40
