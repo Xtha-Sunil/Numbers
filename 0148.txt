@@ -1,0 +1,5 @@
+Number: 148 
+Word: one hundred and forty-eight 
+Binary: 0b10010100 
+Octal: 0o224 
+Hex: 0x94
