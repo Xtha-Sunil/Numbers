@@ -1,0 +1,5 @@
+Number: 499 
+Word: four hundred and ninety-nine 
+Binary: 0b111110011 
+Octal: 0o763 
+Hex: 0x1f3
