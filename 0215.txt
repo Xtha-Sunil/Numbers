@@ -1,0 +1,5 @@
+Number: 215 
+Word: two hundred and fifteen 
+Binary: 0b11010111 
+Octal: 0o327 
+Hex: 0xd7
