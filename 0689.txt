@@ -1,0 +1,5 @@
+Number: 689 
+Word: six hundred and eighty-nine 
+Binary: 0b1010110001 
+Octal: 0o1261 
+Hex: 0x2b1
