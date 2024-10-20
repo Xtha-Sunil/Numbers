@@ -1,0 +1,5 @@
+Number: 99 
+Word: ninety-nine 
+Binary: 0b1100011 
+Octal: 0o143 
+Hex: 0x63
