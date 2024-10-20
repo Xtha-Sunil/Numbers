@@ -1,0 +1,5 @@
+Number: 488 
+Word: four hundred and eighty-eight 
+Binary: 0b111101000 
+Octal: 0o750 
+Hex: 0x1e8
