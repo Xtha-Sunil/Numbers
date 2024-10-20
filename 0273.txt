@@ -1,0 +1,5 @@
+Number: 273 
+Word: two hundred and seventy-three 
+Binary: 0b100010001 
+Octal: 0o421 
+Hex: 0x111
