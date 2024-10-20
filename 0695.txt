@@ -1,0 +1,5 @@
+Number: 695 
+Word: six hundred and ninety-five 
+Binary: 0b1010110111 
+Octal: 0o1267 
+Hex: 0x2b7
