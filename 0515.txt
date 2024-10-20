@@ -1,0 +1,5 @@
+Number: 515 
+Word: five hundred and fifteen 
+Binary: 0b1000000011 
+Octal: 0o1003 
+Hex: 0x203
