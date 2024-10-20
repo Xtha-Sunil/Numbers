@@ -1,0 +1,5 @@
+Number: 644 
+Word: six hundred and forty-four 
+Binary: 0b1010000100 
+Octal: 0o1204 
+Hex: 0x284
