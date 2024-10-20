@@ -1,0 +1,5 @@
+Number: 175 
+Word: one hundred and seventy-five 
+Binary: 0b10101111 
+Octal: 0o257 
+Hex: 0xaf
