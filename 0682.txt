@@ -1,0 +1,5 @@
+Number: 682 
+Word: six hundred and eighty-two 
+Binary: 0b1010101010 
+Octal: 0o1252 
+Hex: 0x2aa
