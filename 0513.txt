@@ -1,0 +1,5 @@
+Number: 513 
+Word: five hundred and thirteen 
+Binary: 0b1000000001 
+Octal: 0o1001 
+Hex: 0x201
