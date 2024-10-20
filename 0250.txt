@@ -1,0 +1,5 @@
+Number: 250 
+Word: two hundred and fifty 
+Binary: 0b11111010 
+Octal: 0o372 
+Hex: 0xfa
