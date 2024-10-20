@@ -1,0 +1,5 @@
+Number: 545 
+Word: five hundred and forty-five 
+Binary: 0b1000100001 
+Octal: 0o1041 
+Hex: 0x221
