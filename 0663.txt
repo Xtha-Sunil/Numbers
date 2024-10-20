@@ -1,0 +1,5 @@
+Number: 663 
+Word: six hundred and sixty-three 
+Binary: 0b1010010111 
+Octal: 0o1227 
+Hex: 0x297
