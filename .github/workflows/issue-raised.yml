@@ -1,0 +1,51 @@
+name: Handle Issue 
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  assign-issue-and-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get repository owner
+        id: repo-owner
+        run: echo "::set-output name=owner::$(echo '${{ github.repository_owner }}')"
+
+      - name: Assign issue to author
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
+        run: |
+          if [ "${{ github.event.issue.user.login }}" != "${{ steps.repo-owner.outputs.owner }}" ]; then
+            curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+            -d '{"assignees":["'${{ github.event.issue.user.login }}'"]}' \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/assignees
+          fi
+
+      - name: Greet the issue author
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
+        run: |
+          if [ "${{ github.event.issue.user.login }}" != "${{ steps.repo-owner.outputs.owner }}" ]; then
+            curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+            -d '{"body": "Hi @'${{ github.event.issue.user.login }}', thanks for opening this issue!"}' \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments
+
+            curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+            -d '{"body": "Happy Contribution! 🎉"}' \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments
+          fi
+
+      - name: Add Hacktoberfest label
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
+        run: |
+          curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+          -d '{"labels": ["hacktoberfest"]}' \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/labels

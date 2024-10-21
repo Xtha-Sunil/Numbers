@@ -1,0 +1,59 @@
+name: Merge workflow
+
+on:
+  workflow_dispatch:  # Allows the workflow to be triggered manually
+
+jobs:
+  auto_approve_merge_greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v3
+
+      - name: Process PRs with File Count Check
+        run: |
+          # Fetch all open PRs, with a limit of 100
+          prs=$(gh pr list --state open --json number --jq '.[].number' --limit 100)
+          
+          # Check if no PRs are found
+          if [ -z "$prs" ]; then
+            echo "No PRs to process."
+            exit 0
+          fi
+
+          # Loop through each PR
+          for pr in $prs; do
+            echo "Checking PR #$pr"
+
+            # Get the number of files changed in the PR
+            file_count=$(gh pr view $pr --json files --jq '.files | length')
+            
+            if [ "$file_count" -gt 1 ]; then
+              # More than 1 file changed, mark as invalid and close
+              echo "PR #$pr has more than 1 file changed. Labeling as invalid."
+              gh pr label $pr --add "invalid"
+              gh pr close $pr --comment "Change only 1 file at a time."
+              continue
+            fi
+
+            # Approve and merge valid PRs
+            echo "Approving PR #$pr"
+            if ! gh pr review $pr --approve; then
+              echo "Failed to approve PR #$pr"
+              continue
+            fi
+
+            echo "Merging PR #$pr"
+            if ! gh pr merge $pr --admin --squash; then
+              echo "Failed to merge PR #$pr"
+              continue
+            fi
+
+            echo "Thanking contributor for PR #$pr"
+            if ! gh pr comment $pr --body "Thank you for contributing! 🎉 Your PR has been merged."; then
+              echo "Failed to comment on PR #$pr"
+              continue
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}

@@ -1,0 +1,24 @@
+name: PR Raised
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  label_and_comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v3
+      
+      - name: Add Hacktoberfest label
+        run: |
+          gh pr edit ${{ github.event.pull_request.number }} --add-label "hacktoberfest-accepted"
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
+
+      - name: Comment on the PR
+        run: |
+          gh pr comment ${{ github.event.pull_request.number }} --body "PR is under review"
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
