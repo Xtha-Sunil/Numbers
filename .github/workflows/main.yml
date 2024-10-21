@@ -1,0 +1,27 @@
+name: Move Files Script on Main Branch
+
+on:
+  workflow_dispatch:  # Allows you to manually trigger the workflow
+
+jobs:
+  move_files_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          ref: main  # Make sure you are running on the main branch
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install PyGithub
+        run: pip install PyGithub
+
+      - name: Run the move files script
+        env:
+          GITHUB_PAT: ${{ secrets.MY_PAT }}  # Ensure you add MY_PAT in your repo secrets
+        run: python move_files.py
