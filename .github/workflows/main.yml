@@ -23,5 +23,5 @@ jobs:
 
       - name: Run the move files script
         env:
-          GITHUB_PAT: ${{ secrets.MY_PAT }}  # Ensure you add MY_PAT in your repo secrets
+          MY_PAT: ${{ secrets.MY_PAT }}  # Ensure you add MY_PAT in your repo secrets
         run: python move_files.py
