@@ -1,0 +1,5 @@
+Number: 709
+Word: seven hundred and nine
+Binary: 0b1011000101
+Octal: 0o1305
+Hex: 0x2c5
