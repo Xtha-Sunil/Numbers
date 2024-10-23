@@ -1,4 +1,10 @@
 # Repo of Numbers
+---
+## Workflows
+
+![Handle Issues](https://github.com/Xtha-Sunil/Numbers/actions/workflows/issue-raised.yml/badge.svg)
+![Handle PR](https://github.com/Xtha-Sunil/Numbers/actions/workflows/pr-raised.yml/badge.svg)
+![Merge PR](https://github.com/Xtha-Sunil/Numbers/actions/workflows/merger.yml/badge.svg)
 
 # Contribution Guide
 
