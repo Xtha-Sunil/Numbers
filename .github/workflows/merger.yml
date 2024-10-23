@@ -1,4 +1,4 @@
-name: Merge workflow
+name: PR review and merge
 
 on:
   workflow_dispatch:  # Allows the workflow to be triggered manually
