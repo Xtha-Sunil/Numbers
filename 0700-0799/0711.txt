@@ -1,0 +1,5 @@
+Number: 711
+Word: seven hundred and eleven
+Binary: 0b1011000111
+Octal: 0o1307
+Hex: 0x2c7
