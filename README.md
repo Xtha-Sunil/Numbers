@@ -55,3 +55,4 @@ Thank you for considering contributing to this repository! Please follow the ste
    - Once approved, the PR will be merged, and the branch may be deleted.
 
 Happy contributing!
+Thanks for contributing.
