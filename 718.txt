@@ -1,0 +1,5 @@
+Number: 718
+Word: Seven hundred eighteen
+Binary: 0b1011001110
+Octal: 0o1336
+Hex: 0x2CE
