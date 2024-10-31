@@ -1,0 +1,5 @@
+Number: 717
+Word: Seven hundred seventeen
+Binary: 0b1011001101
+Octal: 0o1335
+Hex: 0x2CD
