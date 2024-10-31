@@ -1,0 +1,5 @@
+Number: 720
+Word: Seven hundred twenty
+Binary: 0b1011010000
+Octal: 0o1100
+Hex: 0x2D0
