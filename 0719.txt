@@ -1,0 +1,5 @@
+Number: 719
+Word: Seven hundred nineteen
+Binary: 0b1011001111
+Octal: 0o1337
+Hex: 0x2CF
