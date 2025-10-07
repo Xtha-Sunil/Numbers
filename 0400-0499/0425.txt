@@ -1,5 +1,0 @@
-Number: 425 
-Word: four hundred and twenty-five 
-Binary: 0b110101001 
-Octal: 0o651 
-Hex: 0x1a9

@@ -1,5 +1,0 @@
-Number: 436 
-Word: four hundred and thirty-six 
-Binary: 0b110110100 
-Octal: 0o664 
-Hex: 0x1b4

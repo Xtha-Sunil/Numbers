@@ -1,5 +1,0 @@
-Number: 102 
-Word: one hundred and two 
-Binary: 0b1100110 
-Octal: 0o146 
-Hex: 0x66

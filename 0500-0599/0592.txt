@@ -1,5 +1,0 @@
-Number: 592 
-Word: five hundred and ninety-two 
-Binary: 0b1001010000 
-Octal: 0o1120 
-Hex: 0x250

@@ -1,5 +1,0 @@
-Number: 315 
-Word: three hundred and fifteen 
-Binary: 0b100111011 
-Octal: 0o473 
-Hex: 0x13b

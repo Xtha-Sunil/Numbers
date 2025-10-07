@@ -1,5 +1,0 @@
-Number: 290 
-Word: two hundred and ninety 
-Binary: 0b100100010 
-Octal: 0o442 
-Hex: 0x122

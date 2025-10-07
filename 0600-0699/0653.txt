@@ -1,5 +1,0 @@
-Number: 653 
-Word: six hundred and fifty-three 
-Binary: 0b1010001101 
-Octal: 0o1215 
-Hex: 0x28d

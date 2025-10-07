@@ -1,5 +1,0 @@
-Number: 385 
-Word: three hundred and eighty-five 
-Binary: 0b110000001 
-Octal: 0o601 
-Hex: 0x181

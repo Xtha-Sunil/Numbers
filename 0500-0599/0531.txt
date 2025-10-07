@@ -1,5 +1,0 @@
-Number: 531 
-Word: five hundred and thirty-one 
-Binary: 0b1000010011 
-Octal: 0o1023 
-Hex: 0x213

@@ -1,5 +1,0 @@
-Number: 428 
-Word: four hundred and twenty-eight 
-Binary: 0b110101100 
-Octal: 0o654 
-Hex: 0x1ac

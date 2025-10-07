@@ -1,5 +1,0 @@
-Number: 320 
-Word: three hundred and twenty 
-Binary: 0b101000000 
-Octal: 0o500 
-Hex: 0x140

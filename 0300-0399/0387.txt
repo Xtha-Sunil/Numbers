@@ -1,5 +1,0 @@
-Number: 387 
-Word: three hundred and eighty-seven 
-Binary: 0b110000011 
-Octal: 0o603 
-Hex: 0x183

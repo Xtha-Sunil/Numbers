@@ -1,5 +1,0 @@
-Number: 372 
-Word: three hundred and seventy-two 
-Binary: 0b101110100 
-Octal: 0o564 
-Hex: 0x174

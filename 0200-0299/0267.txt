@@ -1,5 +1,0 @@
-Number: 267 
-Word: two hundred and sixty-seven 
-Binary: 0b100001011 
-Octal: 0o413 
-Hex: 0x10b

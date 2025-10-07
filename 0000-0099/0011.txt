@@ -1,5 +1,0 @@
-Number: 11 
-Word: eleven 
-Binary: 0b1011 
-Octal: 0o13 
-Hex: 0xb

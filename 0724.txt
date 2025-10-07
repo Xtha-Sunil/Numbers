@@ -1,5 +1,0 @@
-Number: 724
-Word: Seven hundred twenty-four
-Binary: 0b1011010100
-Octal: 0o1104
-Hex: 0x2D4

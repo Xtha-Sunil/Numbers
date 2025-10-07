@@ -1,5 +1,0 @@
-Number: 251 
-Word: two hundred and fifty-one 
-Binary: 0b11111011 
-Octal: 0o373 
-Hex: 0xfb

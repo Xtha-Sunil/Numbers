@@ -1,5 +1,0 @@
-Number: 359 
-Word: three hundred and fifty-nine 
-Binary: 0b101100111 
-Octal: 0o547 
-Hex: 0x167

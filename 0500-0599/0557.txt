@@ -1,5 +1,0 @@
-Number: 557 
-Word: five hundred and fifty-seven 
-Binary: 0b1000101101 
-Octal: 0o1055 
-Hex: 0x22d

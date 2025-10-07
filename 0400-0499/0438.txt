@@ -1,5 +1,0 @@
-Number: 438 
-Word: four hundred and thirty-eight 
-Binary: 0b110110110 
-Octal: 0o666 
-Hex: 0x1b6

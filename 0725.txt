@@ -1,5 +1,0 @@
-Number: 725
-Word: Seven hundred twenty-five
-Binary: 0b1011010101
-Octal: 0o1105
-Hex: 0x2D5

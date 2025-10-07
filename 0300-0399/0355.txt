@@ -1,5 +1,0 @@
-Number: 355 
-Word: three hundred and fifty-five 
-Binary: 0b101100011 
-Octal: 0o543 
-Hex: 0x163

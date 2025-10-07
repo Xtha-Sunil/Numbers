@@ -1,5 +1,0 @@
-Number: 367 
-Word: three hundred and sixty-seven 
-Binary: 0b101101111 
-Octal: 0o557 
-Hex: 0x16f

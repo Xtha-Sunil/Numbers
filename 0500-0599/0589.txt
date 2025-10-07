@@ -1,5 +1,0 @@
-Number: 589 
-Word: five hundred and eighty-nine 
-Binary: 0b1001001101 
-Octal: 0o1115 
-Hex: 0x24d

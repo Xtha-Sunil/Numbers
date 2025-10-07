@@ -1,5 +1,0 @@
-Number: 253 
-Word: two hundred and fifty-three 
-Binary: 0b11111101 
-Octal: 0o375 
-Hex: 0xfd

@@ -1,5 +1,0 @@
-Number: 107 
-Word: one hundred and seven 
-Binary: 0b1101011 
-Octal: 0o153 
-Hex: 0x6b

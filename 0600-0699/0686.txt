@@ -1,5 +1,0 @@
-Number: 686 
-Word: six hundred and eighty-six 
-Binary: 0b1010101110 
-Octal: 0o1256 
-Hex: 0x2ae

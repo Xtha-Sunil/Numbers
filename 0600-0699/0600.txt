@@ -1,5 +1,0 @@
-Number: 600
-Word: six hundred
-Binary: 0b1001011000
-Octal: 0o1130
-Hex: 0x258

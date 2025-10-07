@@ -1,5 +1,0 @@
-Number: 671 
-Word: six hundred and seventy-one 
-Binary: 0b1010011111 
-Octal: 0o1237 
-Hex: 0x29f

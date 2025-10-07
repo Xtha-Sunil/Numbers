@@ -1,5 +1,0 @@
-Number: 208 
-Word: two hundred and eight 
-Binary: 0b11010000 
-Octal: 0o320 
-Hex: 0xd0

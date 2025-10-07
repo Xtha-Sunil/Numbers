@@ -1,5 +1,0 @@
-Number: 580 
-Word: five hundred and eighty 
-Binary: 0b1001000100 
-Octal: 0o1104 
-Hex: 0x244

@@ -1,5 +1,0 @@
-Number: 645 
-Word: six hundred and forty-five 
-Binary: 0b1010000101 
-Octal: 0o1205 
-Hex: 0x285

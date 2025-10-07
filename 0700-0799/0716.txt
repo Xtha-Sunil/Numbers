@@ -1,5 +1,0 @@
-Number: 716
-Word: Seven hundred sixteen
-Binary: 0b1011001100
-Octal: 0o1334
-Hex: 0x2CC

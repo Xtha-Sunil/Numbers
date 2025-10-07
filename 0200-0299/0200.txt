@@ -1,5 +1,0 @@
-Number: 200 
-Word: two hundred 
-Binary: 0b11001000 
-Octal: 0o310 
-Hex: 0xc8

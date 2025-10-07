@@ -1,5 +1,0 @@
-Number: 287 
-Word: two hundred and eighty-seven 
-Binary: 0b100011111 
-Octal: 0o437 
-Hex: 0x11f

@@ -1,5 +1,0 @@
-Number: 125 
-Word: one hundred and twenty-five 
-Binary: 0b1111101 
-Octal: 0o175 
-Hex: 0x7d

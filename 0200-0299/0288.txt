@@ -1,5 +1,0 @@
-Number: 288 
-Word: two hundred and eighty-eight 
-Binary: 0b100100000 
-Octal: 0o440 
-Hex: 0x120

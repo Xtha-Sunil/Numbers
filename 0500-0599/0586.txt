@@ -1,5 +1,0 @@
-Number: 586 
-Word: five hundred and eighty-six 
-Binary: 0b1001001010 
-Octal: 0o1112 
-Hex: 0x24a

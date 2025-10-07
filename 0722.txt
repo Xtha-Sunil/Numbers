@@ -1,5 +1,0 @@
-Number: 722
-Word: Seven hundred twenty-two
-Binary: 0b1011010010
-Octal: 0o1102
-Hex: 0x2D2

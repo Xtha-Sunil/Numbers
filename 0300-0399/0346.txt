@@ -1,5 +1,0 @@
-Number: 346 
-Word: three hundred and forty-six 
-Binary: 0b101011010 
-Octal: 0o532 
-Hex: 0x15a

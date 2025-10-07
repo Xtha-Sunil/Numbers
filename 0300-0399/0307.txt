@@ -1,5 +1,0 @@
-Number: 307 
-Word: three hundred and seven 
-Binary: 0b100110011 
-Octal: 0o463 
-Hex: 0x133

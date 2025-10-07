@@ -1,5 +1,0 @@
-Number: 506 
-Word: five hundred and six 
-Binary: 0b111111010 
-Octal: 0o772 
-Hex: 0x1fa

@@ -1,5 +1,0 @@
-Number: 388 
-Word: three hundred and eighty-eight 
-Binary: 0b110000100 
-Octal: 0o604 
-Hex: 0x184

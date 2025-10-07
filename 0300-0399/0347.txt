@@ -1,5 +1,0 @@
-Number: 347 
-Word: three hundred and forty-seven 
-Binary: 0b101011011 
-Octal: 0o533 
-Hex: 0x15b

@@ -1,5 +1,0 @@
-Number: 53 
-Word: fifty-three 
-Binary: 0b110101 
-Octal: 0o65 
-Hex: 0x35

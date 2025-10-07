@@ -1,5 +1,0 @@
-Number: 676 
-Word: six hundred and seventy-six 
-Binary: 0b1010100100 
-Octal: 0o1244 
-Hex: 0x2a4

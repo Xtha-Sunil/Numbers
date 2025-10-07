@@ -1,5 +1,0 @@
-Number: 519 
-Word: five hundred and nineteen 
-Binary: 0b1000000111 
-Octal: 0o1007 
-Hex: 0x207

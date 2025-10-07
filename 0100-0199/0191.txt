@@ -1,5 +1,0 @@
-Number: 191 
-Word: one hundred and ninety-one 
-Binary: 0b10111111 
-Octal: 0o277 
-Hex: 0xbf

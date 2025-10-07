@@ -1,5 +1,0 @@
-Number: 241 
-Word: two hundred and forty-one 
-Binary: 0b11110001 
-Octal: 0o361 
-Hex: 0xf1

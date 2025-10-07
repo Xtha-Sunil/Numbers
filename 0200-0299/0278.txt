@@ -1,5 +1,0 @@
-Number: 278 
-Word: two hundred and seventy-eight 
-Binary: 0b100010110 
-Octal: 0o426 
-Hex: 0x116

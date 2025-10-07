@@ -1,5 +1,0 @@
-Number: 377 
-Word: three hundred and seventy-seven 
-Binary: 0b101111001 
-Octal: 0o571 
-Hex: 0x179

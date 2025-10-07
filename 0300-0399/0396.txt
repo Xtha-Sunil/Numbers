@@ -1,5 +1,0 @@
-Number: 396 
-Word: three hundred and ninety-six 
-Binary: 0b110001100 
-Octal: 0o614 
-Hex: 0x18c

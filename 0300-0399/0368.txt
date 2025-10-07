@@ -1,5 +1,0 @@
-Number: 368 
-Word: three hundred and sixty-eight 
-Binary: 0b101110000 
-Octal: 0o560 
-Hex: 0x170

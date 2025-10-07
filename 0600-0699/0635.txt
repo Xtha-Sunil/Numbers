@@ -1,5 +1,0 @@
-Number: 635 
-Word: six hundred and thirty-five 
-Binary: 0b1001111011 
-Octal: 0o1173 
-Hex: 0x27b

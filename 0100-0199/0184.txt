@@ -1,5 +1,0 @@
-Number: 184 
-Word: one hundred and eighty-four 
-Binary: 0b10111000 
-Octal: 0o270 
-Hex: 0xb8

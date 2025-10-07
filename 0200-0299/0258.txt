@@ -1,5 +1,0 @@
-Number: 258 
-Word: two hundred and fifty-eight 
-Binary: 0b100000010 
-Octal: 0o402 
-Hex: 0x102

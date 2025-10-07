@@ -1,5 +1,0 @@
-Number: 649 
-Word: six hundred and forty-nine 
-Binary: 0b1010001001 
-Octal: 0o1211 
-Hex: 0x289

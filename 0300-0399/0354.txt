@@ -1,5 +1,0 @@
-Number: 354 
-Word: three hundred and fifty-four 
-Binary: 0b101100010 
-Octal: 0o542 
-Hex: 0x162

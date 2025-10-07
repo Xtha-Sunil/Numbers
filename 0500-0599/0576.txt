@@ -1,5 +1,0 @@
-Number: 576 
-Word: five hundred and seventy-six 
-Binary: 0b1001000000 
-Octal: 0o1100 
-Hex: 0x240

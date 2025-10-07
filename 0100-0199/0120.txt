@@ -1,5 +1,0 @@
-Number: 120 
-Word: one hundred and twenty 
-Binary: 0b1111000 
-Octal: 0o170 
-Hex: 0x78

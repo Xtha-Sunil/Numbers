@@ -1,5 +1,0 @@
-Number: 435 
-Word: four hundred and thirty-five 
-Binary: 0b110110011 
-Octal: 0o663 
-Hex: 0x1b3

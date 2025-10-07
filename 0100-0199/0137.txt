@@ -1,5 +1,0 @@
-Number: 137 
-Word: one hundred and thirty-seven 
-Binary: 0b10001001 
-Octal: 0o211 
-Hex: 0x89

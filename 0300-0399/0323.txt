@@ -1,5 +1,0 @@
-Number: 323 
-Word: three hundred and twenty-three 
-Binary: 0b101000011 
-Octal: 0o503 
-Hex: 0x143

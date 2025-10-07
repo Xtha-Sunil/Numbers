@@ -1,5 +1,0 @@
-Number: 614 
-Word: six hundred and fourteen 
-Binary: 0b1001100110 
-Octal: 0o1146 
-Hex: 0x266

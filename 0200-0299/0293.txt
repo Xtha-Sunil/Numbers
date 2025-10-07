@@ -1,5 +1,0 @@
-Number: 293 
-Word: two hundred and ninety-three 
-Binary: 0b100100101 
-Octal: 0o445 
-Hex: 0x125

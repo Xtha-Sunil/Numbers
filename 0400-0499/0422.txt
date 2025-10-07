@@ -1,5 +1,0 @@
-Number: 422 
-Word: four hundred and twenty-two 
-Binary: 0b110100110 
-Octal: 0o646 
-Hex: 0x1a6

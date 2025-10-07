@@ -1,5 +1,0 @@
-Number: 423 
-Word: four hundred and twenty-three 
-Binary: 0b110100111 
-Octal: 0o647 
-Hex: 0x1a7

@@ -1,5 +1,0 @@
-Number: 297 
-Word: two hundred and ninety-seven 
-Binary: 0b100101001 
-Octal: 0o451 
-Hex: 0x129

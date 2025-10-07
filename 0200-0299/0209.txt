@@ -1,5 +1,0 @@
-Number: 209 
-Word: two hundred and nine 
-Binary: 0b11010001 
-Octal: 0o321 
-Hex: 0xd1

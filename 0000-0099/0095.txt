@@ -1,5 +1,0 @@
-Number: 95 
-Word: ninety-five 
-Binary: 0b1011111 
-Octal: 0o137 
-Hex: 0x5f

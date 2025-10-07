@@ -1,5 +1,0 @@
-Number: 150 
-Word: one hundred and fifty 
-Binary: 0b10010110 
-Octal: 0o226 
-Hex: 0x96

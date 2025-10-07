@@ -1,5 +1,0 @@
-Number: 48 
-Word: forty-eight 
-Binary: 0b110000 
-Octal: 0o60 
-Hex: 0x30

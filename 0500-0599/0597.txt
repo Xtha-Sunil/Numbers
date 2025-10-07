@@ -1,5 +1,0 @@
-Number: 597 
-Word: five hundred and ninety-seven 
-Binary: 0b1001010101 
-Octal: 0o1125 
-Hex: 0x255

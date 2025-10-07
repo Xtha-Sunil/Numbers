@@ -1,5 +1,0 @@
-Number: 699 
-Word: six hundred and ninety-nine 
-Binary: 0b1010111011 
-Octal: 0o1273 
-Hex: 0x2bb

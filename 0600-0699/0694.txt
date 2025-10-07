@@ -1,5 +1,0 @@
-Number: 694 
-Word: six hundred and ninety-four 
-Binary: 0b1010110110 
-Octal: 0o1266 
-Hex: 0x2b6

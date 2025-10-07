@@ -1,5 +1,0 @@
-Number: 265 
-Word: two hundred and sixty-five 
-Binary: 0b100001001 
-Octal: 0o411 
-Hex: 0x109

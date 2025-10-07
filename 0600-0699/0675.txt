@@ -1,5 +1,0 @@
-Number: 675 
-Word: six hundred and seventy-five 
-Binary: 0b1010100011 
-Octal: 0o1243 
-Hex: 0x2a3

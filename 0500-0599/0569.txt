@@ -1,5 +1,0 @@
-Number: 569 
-Word: five hundred and sixty-nine 
-Binary: 0b1000111001 
-Octal: 0o1071 
-Hex: 0x239

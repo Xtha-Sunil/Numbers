@@ -1,5 +1,0 @@
-Number: 443 
-Word: four hundred and forty-three 
-Binary: 0b110111011 
-Octal: 0o673 
-Hex: 0x1bb

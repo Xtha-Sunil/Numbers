@@ -1,5 +1,0 @@
-Number: 164 
-Word: one hundred and sixty-four 
-Binary: 0b10100100 
-Octal: 0o244 
-Hex: 0xa4

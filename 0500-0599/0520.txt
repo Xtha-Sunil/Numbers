@@ -1,5 +1,0 @@
-Number: 520 
-Word: five hundred and twenty 
-Binary: 0b1000001000 
-Octal: 0o1010 
-Hex: 0x208

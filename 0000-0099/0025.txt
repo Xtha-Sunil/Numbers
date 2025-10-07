@@ -1,5 +1,0 @@
-Number: 25 
-Word: twenty-five 
-Binary: 0b11001 
-Octal: 0o31 
-Hex: 0x19

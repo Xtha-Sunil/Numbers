@@ -1,5 +1,0 @@
-Number: 314 
-Word: three hundred and fourteen 
-Binary: 0b100111010 
-Octal: 0o472 
-Hex: 0x13a

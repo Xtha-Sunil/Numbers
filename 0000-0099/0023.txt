@@ -1,5 +1,0 @@
-Number: 23 
-Word: twenty-three 
-Binary: 0b10111 
-Octal: 0o27 
-Hex: 0x17

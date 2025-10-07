@@ -1,5 +1,0 @@
-Number: 613 
-Word: six hundred and thirteen 
-Binary: 0b1001100101 
-Octal: 0o1145 
-Hex: 0x265

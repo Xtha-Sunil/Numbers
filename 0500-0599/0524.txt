@@ -1,5 +1,0 @@
-Number: 524 
-Word: five hundred and twenty-four 
-Binary: 0b1000001100 
-Octal: 0o1014 
-Hex: 0x20c

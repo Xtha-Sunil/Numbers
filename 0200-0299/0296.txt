@@ -1,5 +1,0 @@
-Number: 296 
-Word: two hundred and ninety-six 
-Binary: 0b100101000 
-Octal: 0o450 
-Hex: 0x128

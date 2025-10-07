@@ -1,5 +1,0 @@
-Number: 310 
-Word: three hundred and ten 
-Binary: 0b100110110 
-Octal: 0o466 
-Hex: 0x136

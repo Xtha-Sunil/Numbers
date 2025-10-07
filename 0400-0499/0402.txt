@@ -1,5 +1,0 @@
-Number: 402 
-Word: four hundred and two 
-Binary: 0b110010010 
-Octal: 0o622 
-Hex: 0x192

@@ -1,5 +1,0 @@
-Number: 17 
-Word: seventeen 
-Binary: 0b10001 
-Octal: 0o21 
-Hex: 0x11

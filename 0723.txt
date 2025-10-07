@@ -1,5 +1,0 @@
-Number: 723
-Word: Seven hundred twenty-three
-Binary: 0b1011010011
-Octal: 0o1103
-Hex: 0x2D3

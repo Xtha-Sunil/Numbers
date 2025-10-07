@@ -1,5 +1,0 @@
-Number: 503 
-Word: five hundred and three 
-Binary: 0b111110111 
-Octal: 0o767 
-Hex: 0x1f7

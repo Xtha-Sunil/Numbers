@@ -1,5 +1,0 @@
-Number: 697 
-Word: six hundred and ninety-seven 
-Binary: 0b1010111001 
-Octal: 0o1271 
-Hex: 0x2b9

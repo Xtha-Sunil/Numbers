@@ -1,5 +1,0 @@
-Number: 337 
-Word: three hundred and thirty-seven 
-Binary: 0b101010001 
-Octal: 0o521 
-Hex: 0x151

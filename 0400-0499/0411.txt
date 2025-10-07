@@ -1,5 +1,0 @@
-Number: 411 
-Word: four hundred and eleven 
-Binary: 0b110011011 
-Octal: 0o633 
-Hex: 0x19b

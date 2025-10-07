@@ -1,5 +1,0 @@
-Number: 487 
-Word: four hundred and eighty-seven 
-Binary: 0b111100111 
-Octal: 0o747 
-Hex: 0x1e7

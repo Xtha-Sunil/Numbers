@@ -1,5 +1,0 @@
-Number: 5 
-Word: five 
-Binary: 0b101 
-Octal: 0o5 
-Hex: 0x5

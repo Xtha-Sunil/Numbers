@@ -1,5 +1,0 @@
-Number: 135 
-Word: one hundred and thirty-five 
-Binary: 0b10000111 
-Octal: 0o207 
-Hex: 0x87

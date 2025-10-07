@@ -1,5 +1,0 @@
-Number: 446 
-Word: four hundred and forty-six 
-Binary: 0b110111110 
-Octal: 0o676 
-Hex: 0x1be

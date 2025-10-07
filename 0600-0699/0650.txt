@@ -1,5 +1,0 @@
-Number: 650 
-Word: six hundred and fifty 
-Binary: 0b1010001010 
-Octal: 0o1212 
-Hex: 0x28a

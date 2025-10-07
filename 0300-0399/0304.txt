@@ -1,5 +1,0 @@
-Number: 304 
-Word: three hundred and four 
-Binary: 0b100110000 
-Octal: 0o460 
-Hex: 0x130

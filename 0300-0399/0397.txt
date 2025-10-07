@@ -1,5 +1,0 @@
-Number: 397 
-Word: three hundred and ninety-seven 
-Binary: 0b110001101 
-Octal: 0o615 
-Hex: 0x18d

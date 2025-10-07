@@ -1,5 +1,0 @@
-Number: 103 
-Word: one hundred and three 
-Binary: 0b1100111 
-Octal: 0o147 
-Hex: 0x67

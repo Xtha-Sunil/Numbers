@@ -1,5 +1,0 @@
-Number: 419 
-Word: four hundred and nineteen 
-Binary: 0b110100011 
-Octal: 0o643 
-Hex: 0x1a3

@@ -1,5 +1,0 @@
-Number: 247 
-Word: two hundred and forty-seven 
-Binary: 0b11110111 
-Octal: 0o367 
-Hex: 0xf7

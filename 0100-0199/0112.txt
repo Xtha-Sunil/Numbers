@@ -1,5 +1,0 @@
-Number: 112 
-Word: one hundred and twelve 
-Binary: 0b1110000 
-Octal: 0o160 
-Hex: 0x70

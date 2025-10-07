@@ -1,5 +1,0 @@
-Number: 50 
-Word: fifty 
-Binary: 0b110010 
-Octal: 0o62 
-Hex: 0x32

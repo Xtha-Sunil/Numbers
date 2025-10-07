@@ -1,5 +1,0 @@
-Number: 141 
-Word: one hundred and forty-one 
-Binary: 0b10001101 
-Octal: 0o215 
-Hex: 0x8d

@@ -1,5 +1,0 @@
-Number: 404 
-Word: four hundred and four 
-Binary: 0b110010100 
-Octal: 0o624 
-Hex: 0x194

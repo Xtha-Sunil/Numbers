@@ -1,5 +1,0 @@
-Number: 108 
-Word: one hundred and eight 
-Binary: 0b1101100 
-Octal: 0o154 
-Hex: 0x6c

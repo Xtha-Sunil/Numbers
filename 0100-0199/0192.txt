@@ -1,5 +1,0 @@
-Number: 192 
-Word: one hundred and ninety-two 
-Binary: 0b11000000 
-Octal: 0o300 
-Hex: 0xc0

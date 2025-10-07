@@ -1,5 +1,0 @@
-Number: 381 
-Word: three hundred and eighty-one 
-Binary: 0b101111101 
-Octal: 0o575 
-Hex: 0x17d

@@ -1,5 +1,0 @@
-Number: 73 
-Word: seventy-three 
-Binary: 0b1001001 
-Octal: 0o111 
-Hex: 0x49

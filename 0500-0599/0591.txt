@@ -1,5 +1,0 @@
-Number: 591 
-Word: five hundred and ninety-one 
-Binary: 0b1001001111 
-Octal: 0o1117 
-Hex: 0x24f

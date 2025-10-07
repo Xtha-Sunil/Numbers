@@ -1,5 +1,0 @@
-Number: 187 
-Word: one hundred and eighty-seven 
-Binary: 0b10111011 
-Octal: 0o273 
-Hex: 0xbb

@@ -1,5 +1,0 @@
-Number: 111 
-Word: one hundred and eleven 
-Binary: 0b1101111 
-Octal: 0o157 
-Hex: 0x6f

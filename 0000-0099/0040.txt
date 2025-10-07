@@ -1,5 +1,0 @@
-Number: 40 
-Word: forty 
-Binary: 0b101000 
-Octal: 0o50 
-Hex: 0x28

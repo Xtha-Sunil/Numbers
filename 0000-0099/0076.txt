@@ -1,5 +1,0 @@
-Number: 76 
-Word: seventy-six 
-Binary: 0b1001100 
-Octal: 0o114 
-Hex: 0x4c

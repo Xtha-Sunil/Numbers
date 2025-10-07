@@ -1,5 +1,0 @@
-Number: 483 
-Word: four hundred and eighty-three 
-Binary: 0b111100011 
-Octal: 0o743 
-Hex: 0x1e3

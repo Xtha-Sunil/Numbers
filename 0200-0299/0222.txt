@@ -1,5 +1,0 @@
-Number: 222 
-Word: two hundred and twenty-two 
-Binary: 0b11011110 
-Octal: 0o336 
-Hex: 0xde

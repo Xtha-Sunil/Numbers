@@ -1,5 +1,0 @@
-Number: 357 
-Word: three hundred and fifty-seven 
-Binary: 0b101100101 
-Octal: 0o545 
-Hex: 0x165

@@ -1,5 +1,0 @@
-Number: 413 
-Word: four hundred and thirteen 
-Binary: 0b110011101 
-Octal: 0o635 
-Hex: 0x19d

@@ -1,5 +1,0 @@
-Number: 593 
-Word: five hundred and ninety-three 
-Binary: 0b1001010001 
-Octal: 0o1121 
-Hex: 0x251

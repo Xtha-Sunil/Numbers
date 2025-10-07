@@ -1,5 +1,0 @@
-Number: 431 
-Word: four hundred and thirty-one 
-Binary: 0b110101111 
-Octal: 0o657 
-Hex: 0x1af

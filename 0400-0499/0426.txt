@@ -1,5 +1,0 @@
-Number: 426 
-Word: four hundred and twenty-six 
-Binary: 0b110101010 
-Octal: 0o652 
-Hex: 0x1aa

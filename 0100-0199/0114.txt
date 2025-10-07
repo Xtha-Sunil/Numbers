@@ -1,5 +1,0 @@
-Number: 114 
-Word: one hundred and fourteen 
-Binary: 0b1110010 
-Octal: 0o162 
-Hex: 0x72

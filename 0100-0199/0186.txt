@@ -1,5 +1,0 @@
-Number: 186 
-Word: one hundred and eighty-six 
-Binary: 0b10111010 
-Octal: 0o272 
-Hex: 0xba

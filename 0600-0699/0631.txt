@@ -1,5 +1,0 @@
-Number: 631 
-Word: six hundred and thirty-one 
-Binary: 0b1001110111 
-Octal: 0o1167 
-Hex: 0x277

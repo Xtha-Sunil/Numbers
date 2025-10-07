@@ -1,5 +1,0 @@
-Number: 651 
-Word: six hundred and fifty-one 
-Binary: 0b1010001011 
-Octal: 0o1213 
-Hex: 0x28b

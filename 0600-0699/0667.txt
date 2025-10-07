@@ -1,5 +1,0 @@
-Number: 667 
-Word: six hundred and sixty-seven 
-Binary: 0b1010011011 
-Octal: 0o1233 
-Hex: 0x29b

@@ -1,5 +1,0 @@
-Number: 561 
-Word: five hundred and sixty-one 
-Binary: 0b1000110001 
-Octal: 0o1061 
-Hex: 0x231

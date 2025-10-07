@@ -1,5 +1,0 @@
-Number: 612 
-Word: six hundred and twelve 
-Binary: 0b1001100100 
-Octal: 0o1144 
-Hex: 0x264

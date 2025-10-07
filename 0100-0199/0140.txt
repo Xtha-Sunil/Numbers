@@ -1,5 +1,0 @@
-Number: 140 
-Word: one hundred and forty 
-Binary: 0b10001100 
-Octal: 0o214 
-Hex: 0x8c

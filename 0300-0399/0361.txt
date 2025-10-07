@@ -1,5 +1,0 @@
-Number: 361 
-Word: three hundred and sixty-one 
-Binary: 0b101101001 
-Octal: 0o551 
-Hex: 0x169

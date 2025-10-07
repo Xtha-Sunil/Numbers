@@ -1,5 +1,0 @@
-Number: 285 
-Word: two hundred and eighty-five 
-Binary: 0b100011101 
-Octal: 0o435 
-Hex: 0x11d

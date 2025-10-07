@@ -1,5 +1,0 @@
-Number: 606
-Word: Six hundred six
-Binary: 0b1001011110
-Octal: 0o1136
-Hex: 0x25E

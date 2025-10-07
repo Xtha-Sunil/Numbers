@@ -1,5 +1,0 @@
-Number: 86 
-Word: eighty-six 
-Binary: 0b1010110 
-Octal: 0o126 
-Hex: 0x56

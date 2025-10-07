@@ -1,5 +1,0 @@
-Number: 441 
-Word: four hundred and forty-one 
-Binary: 0b110111001 
-Octal: 0o671 
-Hex: 0x1b9

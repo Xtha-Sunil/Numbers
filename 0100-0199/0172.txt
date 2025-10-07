@@ -1,5 +1,0 @@
-Number: 172 
-Word: one hundred and seventy-two 
-Binary: 0b10101100 
-Octal: 0o254 
-Hex: 0xac

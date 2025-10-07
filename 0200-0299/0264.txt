@@ -1,5 +1,0 @@
-Number: 264 
-Word: two hundred and sixty-four 
-Binary: 0b100001000 
-Octal: 0o410 
-Hex: 0x108

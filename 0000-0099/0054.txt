@@ -1,5 +1,0 @@
-Number: 54 
-Word: fifty-four 
-Binary: 0b110110 
-Octal: 0o66 
-Hex: 0x36

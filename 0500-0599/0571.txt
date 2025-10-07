@@ -1,5 +1,0 @@
-Number: 571 
-Word: five hundred and seventy-one 
-Binary: 0b1000111011 
-Octal: 0o1073 
-Hex: 0x23b

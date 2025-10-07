@@ -1,5 +1,0 @@
-Number: 619 
-Word: six hundred and nineteen 
-Binary: 0b1001101011 
-Octal: 0o1153 
-Hex: 0x26b

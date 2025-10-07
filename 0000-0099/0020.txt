@@ -1,5 +1,0 @@
-Number: 20 
-Word: twenty 
-Binary: 0b10100 
-Octal: 0o24 
-Hex: 0x14

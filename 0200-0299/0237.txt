@@ -1,5 +1,0 @@
-Number: 237 
-Word: two hundred and thirty-seven 
-Binary: 0b11101101 
-Octal: 0o355 
-Hex: 0xed

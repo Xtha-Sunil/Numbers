@@ -1,5 +1,0 @@
-Number: 257 
-Word: two hundred and fifty-seven 
-Binary: 0b100000001 
-Octal: 0o401 
-Hex: 0x101

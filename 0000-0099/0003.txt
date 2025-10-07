@@ -1,5 +1,0 @@
-Number: 3 
-Word: three 
-Binary: 0b11 
-Octal: 0o3 
-Hex: 0x3

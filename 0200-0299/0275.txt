@@ -1,5 +1,0 @@
-Number: 275 
-Word: two hundred and seventy-five 
-Binary: 0b100010011 
-Octal: 0o423 
-Hex: 0x113

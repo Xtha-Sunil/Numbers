@@ -1,5 +1,0 @@
-Number: 159 
-Word: one hundred and fifty-nine 
-Binary: 0b10011111 
-Octal: 0o237 
-Hex: 0x9f

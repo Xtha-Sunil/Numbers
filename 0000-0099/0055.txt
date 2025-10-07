@@ -1,5 +1,0 @@
-Number: 55 
-Word: fifty-five 
-Binary: 0b110111 
-Octal: 0o67 
-Hex: 0x37

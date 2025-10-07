@@ -1,5 +1,0 @@
-Number: 239 
-Word: two hundred and thirty-nine 
-Binary: 0b11101111 
-Octal: 0o357 
-Hex: 0xef

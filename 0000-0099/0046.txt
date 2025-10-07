@@ -1,5 +1,0 @@
-Number: 46 
-Word: forty-six 
-Binary: 0b101110 
-Octal: 0o56 
-Hex: 0x2e

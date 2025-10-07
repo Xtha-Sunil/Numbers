@@ -1,5 +1,0 @@
-Number: 470 
-Word: four hundred and seventy 
-Binary: 0b111010110 
-Octal: 0o726 
-Hex: 0x1d6

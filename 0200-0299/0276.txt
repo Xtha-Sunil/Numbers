@@ -1,5 +1,0 @@
-Number: 276 
-Word: two hundred and seventy-six 
-Binary: 0b100010100 
-Octal: 0o424 
-Hex: 0x114

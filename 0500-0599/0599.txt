@@ -1,5 +1,0 @@
-Number: 599 
-Word: five hundred and ninety-nine 
-Binary: 0b1001010111 
-Octal: 0o1127 
-Hex: 0x257

@@ -1,5 +1,0 @@
-Number: 223 
-Word: two hundred and twenty-three 
-Binary: 0b11011111 
-Octal: 0o337 
-Hex: 0xdf

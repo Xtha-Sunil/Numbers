@@ -1,5 +1,0 @@
-Number: 548 
-Word: five hundred and forty-eight 
-Binary: 0b1000100100 
-Octal: 0o1044 
-Hex: 0x224

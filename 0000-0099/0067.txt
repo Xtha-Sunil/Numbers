@@ -1,5 +1,0 @@
-Number: 67 
-Word: sixty-seven 
-Binary: 0b1000011 
-Octal: 0o103 
-Hex: 0x43

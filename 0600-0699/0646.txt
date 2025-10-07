@@ -1,5 +1,0 @@
-Number: 646 
-Word: six hundred and forty-six 
-Binary: 0b1010000110 
-Octal: 0o1206 
-Hex: 0x286

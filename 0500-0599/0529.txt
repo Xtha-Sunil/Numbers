@@ -1,5 +1,0 @@
-Number: 529 
-Word: five hundred and twenty-nine 
-Binary: 0b1000010001 
-Octal: 0o1021 
-Hex: 0x211

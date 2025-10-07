@@ -1,5 +1,0 @@
-Number: 213 
-Word: two hundred and thirteen 
-Binary: 0b11010101 
-Octal: 0o325 
-Hex: 0xd5

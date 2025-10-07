@@ -1,5 +1,0 @@
-Number: 603
-Word: Six hundred three
-Binary: 0b1001011011
-Octal: 0o1133
-Hex: 0x25B

@@ -1,5 +1,0 @@
-Number: 605
-Word: Six hundred five
-Binary: 0b1001011101
-Octal: 0o1135
-Hex: 0x25D

@@ -1,5 +1,0 @@
-Number: 332 
-Word: three hundred and thirty-two 
-Binary: 0b101001100 
-Octal: 0o514 
-Hex: 0x14c

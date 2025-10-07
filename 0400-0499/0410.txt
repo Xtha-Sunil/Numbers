@@ -1,5 +1,0 @@
-Number: 410 
-Word: four hundred and ten 
-Binary: 0b110011010 
-Octal: 0o632 
-Hex: 0x19a

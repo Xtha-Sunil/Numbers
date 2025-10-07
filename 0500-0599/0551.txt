@@ -1,5 +1,0 @@
-Number: 551 
-Word: five hundred and fifty-one 
-Binary: 0b1000100111 
-Octal: 0o1047 
-Hex: 0x227

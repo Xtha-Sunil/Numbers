@@ -1,5 +1,0 @@
-Number: 201 
-Word: two hundred and one 
-Binary: 0b11001001 
-Octal: 0o311 
-Hex: 0xc9

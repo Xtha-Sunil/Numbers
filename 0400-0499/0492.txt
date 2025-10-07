@@ -1,5 +1,0 @@
-Number: 492 
-Word: four hundred and ninety-two 
-Binary: 0b111101100 
-Octal: 0o754 
-Hex: 0x1ec

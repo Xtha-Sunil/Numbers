@@ -1,5 +1,0 @@
-Number: 556 
-Word: five hundred and fifty-six 
-Binary: 0b1000101100 
-Octal: 0o1054 
-Hex: 0x22c

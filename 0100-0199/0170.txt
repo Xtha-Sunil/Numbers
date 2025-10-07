@@ -1,5 +1,0 @@
-Number: 170 
-Word: one hundred and seventy 
-Binary: 0b10101010 
-Octal: 0o252 
-Hex: 0xaa

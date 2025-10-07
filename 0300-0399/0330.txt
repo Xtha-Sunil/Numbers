@@ -1,5 +1,0 @@
-Number: 330 
-Word: three hundred and thirty 
-Binary: 0b101001010 
-Octal: 0o512 
-Hex: 0x14a

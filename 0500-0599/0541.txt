@@ -1,5 +1,0 @@
-Number: 541 
-Word: five hundred and forty-one 
-Binary: 0b1000011101 
-Octal: 0o1035 
-Hex: 0x21d

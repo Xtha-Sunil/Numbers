@@ -1,5 +1,0 @@
-Number: 212 
-Word: two hundred and twelve 
-Binary: 0b11010100 
-Octal: 0o324 
-Hex: 0xd4

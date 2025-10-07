@@ -1,5 +1,0 @@
-Number: 58 
-Word: fifty-eight 
-Binary: 0b111010 
-Octal: 0o72 
-Hex: 0x3a

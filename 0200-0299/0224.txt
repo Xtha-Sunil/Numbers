@@ -1,5 +1,0 @@
-Number: 224 
-Word: two hundred and twenty-four 
-Binary: 0b11100000 
-Octal: 0o340 
-Hex: 0xe0

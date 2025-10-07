@@ -1,5 +1,0 @@
-Number: 512 
-Word: five hundred and twelve 
-Binary: 0b1000000000 
-Octal: 0o1000 
-Hex: 0x200

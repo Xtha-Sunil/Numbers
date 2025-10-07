@@ -1,5 +1,0 @@
-Number: 198 
-Word: one hundred and ninety-eight 
-Binary: 0b11000110 
-Octal: 0o306 
-Hex: 0xc6

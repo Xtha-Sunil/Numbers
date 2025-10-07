@@ -1,5 +1,0 @@
-Number: 677 
-Word: six hundred and seventy-seven 
-Binary: 0b1010100101 
-Octal: 0o1245 
-Hex: 0x2a5

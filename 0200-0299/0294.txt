@@ -1,5 +1,0 @@
-Number: 294 
-Word: two hundred and ninety-four 
-Binary: 0b100100110 
-Octal: 0o446 
-Hex: 0x126

@@ -1,5 +1,0 @@
-Number: 181 
-Word: one hundred and eighty-one 
-Binary: 0b10110101 
-Octal: 0o265 
-Hex: 0xb5

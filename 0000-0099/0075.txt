@@ -1,5 +1,0 @@
-Number: 75 
-Word: seventy-five 
-Binary: 0b1001011 
-Octal: 0o113 
-Hex: 0x4b

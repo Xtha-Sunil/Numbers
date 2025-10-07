@@ -1,5 +1,0 @@
-Number: 462 
-Word: four hundred and sixty-two 
-Binary: 0b111001110 
-Octal: 0o716 
-Hex: 0x1ce

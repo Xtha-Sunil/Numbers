@@ -1,5 +1,0 @@
-Number: 647 
-Word: six hundred and forty-seven 
-Binary: 0b1010000111 
-Octal: 0o1207 
-Hex: 0x287

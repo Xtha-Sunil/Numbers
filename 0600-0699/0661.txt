@@ -1,5 +1,0 @@
-Number: 661 
-Word: six hundred and sixty-one 
-Binary: 0b1010010101 
-Octal: 0o1225 
-Hex: 0x295

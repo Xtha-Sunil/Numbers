@@ -1,5 +1,0 @@
-Number: 68 
-Word: sixty-eight 
-Binary: 0b1000100 
-Octal: 0o104 
-Hex: 0x44

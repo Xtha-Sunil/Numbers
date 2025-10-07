@@ -1,5 +1,0 @@
-Number: 228 
-Word: two hundred and twenty-eight 
-Binary: 0b11100100 
-Octal: 0o344 
-Hex: 0xe4

@@ -1,5 +1,0 @@
-Number: 298 
-Word: two hundred and ninety-eight 
-Binary: 0b100101010 
-Octal: 0o452 
-Hex: 0x12a

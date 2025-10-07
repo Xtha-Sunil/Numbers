@@ -1,5 +1,0 @@
-Number: 392 
-Word: three hundred and ninety-two 
-Binary: 0b110001000 
-Octal: 0o610 
-Hex: 0x188

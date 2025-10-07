@@ -1,5 +1,0 @@
-Number: 242 
-Word: two hundred and forty-two 
-Binary: 0b11110010 
-Octal: 0o362 
-Hex: 0xf2
