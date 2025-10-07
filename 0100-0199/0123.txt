@@ -1,5 +1,0 @@
-Number: 123 
-Word: one hundred and twenty-three 
-Binary: 0b1111011 
-Octal: 0o173 
-Hex: 0x7b

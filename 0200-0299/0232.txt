@@ -1,5 +1,0 @@
-Number: 232 
-Word: two hundred and thirty-two 
-Binary: 0b11101000 
-Octal: 0o350 
-Hex: 0xe8

@@ -1,5 +1,0 @@
-Number: 706 
-Word: seven hundred and six 
-Binary: 0b1011000010 
-Octal: 0o1302 
-Hex: 0x2c2

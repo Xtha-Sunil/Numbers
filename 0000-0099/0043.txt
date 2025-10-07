@@ -1,5 +1,0 @@
-Number: 43 
-Word: forty-three 
-Binary: 0b101011 
-Octal: 0o53 
-Hex: 0x2b

@@ -1,5 +1,0 @@
-Number: 81 
-Word: eighty-one 
-Binary: 0b1010001 
-Octal: 0o121 
-Hex: 0x51

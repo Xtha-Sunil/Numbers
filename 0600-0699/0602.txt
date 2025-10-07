@@ -1,5 +1,0 @@
-Number: 602
-Word: Six hundred two
-Binary: 0b1001011010
-Octal: 0o1132
-Hex: 0x25A

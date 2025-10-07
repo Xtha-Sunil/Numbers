@@ -1,5 +1,0 @@
-Number: 375 
-Word: three hundred and seventy-five 
-Binary: 0b101110111 
-Octal: 0o567 
-Hex: 0x177

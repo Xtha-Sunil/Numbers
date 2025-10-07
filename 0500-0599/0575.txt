@@ -1,5 +1,0 @@
-Number: 575 
-Word: five hundred and seventy-five 
-Binary: 0b1000111111 
-Octal: 0o1077 
-Hex: 0x23f

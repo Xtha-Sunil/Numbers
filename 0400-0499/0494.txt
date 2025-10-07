@@ -1,5 +1,0 @@
-Number: 494 
-Word: four hundred and ninety-four 
-Binary: 0b111101110 
-Octal: 0o756 
-Hex: 0x1ee

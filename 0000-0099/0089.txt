@@ -1,5 +1,0 @@
-Number: 89 
-Word: eighty-nine 
-Binary: 0b1011001 
-Octal: 0o131 
-Hex: 0x59

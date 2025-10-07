@@ -1,5 +1,0 @@
-Number: 537 
-Word: five hundred and thirty-seven 
-Binary: 0b1000011001 
-Octal: 0o1031 
-Hex: 0x219

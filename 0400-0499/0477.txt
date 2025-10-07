@@ -1,5 +1,0 @@
-Number: 477 
-Word: four hundred and seventy-seven 
-Binary: 0b111011101 
-Octal: 0o735 
-Hex: 0x1dd

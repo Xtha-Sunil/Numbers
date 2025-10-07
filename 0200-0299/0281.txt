@@ -1,5 +1,0 @@
-Number: 281 
-Word: two hundred and eighty-one 
-Binary: 0b100011001 
-Octal: 0o431 
-Hex: 0x119

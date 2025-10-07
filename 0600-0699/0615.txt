@@ -1,5 +1,0 @@
-Number: 615 
-Word: six hundred and fifteen 
-Binary: 0b1001100111 
-Octal: 0o1147 
-Hex: 0x267

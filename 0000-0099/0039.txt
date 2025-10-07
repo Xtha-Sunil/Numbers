@@ -1,5 +1,0 @@
-Number: 39 
-Word: thirty-nine 
-Binary: 0b100111 
-Octal: 0o47 
-Hex: 0x27

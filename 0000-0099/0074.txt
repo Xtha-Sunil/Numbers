@@ -1,5 +1,0 @@
-Number: 74 
-Word: seventy-four 
-Binary: 0b1001010 
-Octal: 0o112 
-Hex: 0x4a

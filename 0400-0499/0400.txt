@@ -1,5 +1,0 @@
-Number: 400 
-Word: four hundred 
-Binary: 0b110010000 
-Octal: 0o620 
-Hex: 0x190

@@ -1,5 +1,0 @@
-Number: 408 
-Word: four hundred and eight 
-Binary: 0b110011000 
-Octal: 0o630 
-Hex: 0x198

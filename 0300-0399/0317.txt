@@ -1,5 +1,0 @@
-Number: 317 
-Word: three hundred and seventeen 
-Binary: 0b100111101 
-Octal: 0o475 
-Hex: 0x13d

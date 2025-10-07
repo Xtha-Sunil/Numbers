@@ -1,5 +1,0 @@
-Number: 72 
-Word: seventy-two 
-Binary: 0b1001000 
-Octal: 0o110 
-Hex: 0x48

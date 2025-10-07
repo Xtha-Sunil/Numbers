@@ -1,5 +1,0 @@
-Number: 145 
-Word: one hundred and forty-five 
-Binary: 0b10010001 
-Octal: 0o221 
-Hex: 0x91

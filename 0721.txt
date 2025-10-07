@@ -1,5 +1,0 @@
-Number: 721
-Word: Seven hundred twenty-one
-Binary: 0b1011010001
-Octal: 0o1101
-Hex: 0x2D1

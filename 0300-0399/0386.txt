@@ -1,5 +1,0 @@
-Number: 386 
-Word: three hundred and eighty-six 
-Binary: 0b110000010 
-Octal: 0o602 
-Hex: 0x182

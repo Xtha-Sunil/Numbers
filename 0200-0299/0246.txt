@@ -1,5 +1,0 @@
-Number: 246 
-Word: two hundred and forty-six 
-Binary: 0b11110110 
-Octal: 0o366 
-Hex: 0xf6

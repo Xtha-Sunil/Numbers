@@ -1,5 +1,0 @@
-Number: 206 
-Word: two hundred and six 
-Binary: 0b11001110 
-Octal: 0o316 
-Hex: 0xce

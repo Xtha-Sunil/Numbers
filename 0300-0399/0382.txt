@@ -1,5 +1,0 @@
-Number: 382 
-Word: three hundred and eighty-two 
-Binary: 0b101111110 
-Octal: 0o576 
-Hex: 0x17e

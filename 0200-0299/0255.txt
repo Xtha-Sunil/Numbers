@@ -1,5 +1,0 @@
-Number: 255 
-Word: two hundred and fifty-five 
-Binary: 0b11111111 
-Octal: 0o377 
-Hex: 0xff

@@ -1,5 +1,0 @@
-Number: 535 
-Word: five hundred and thirty-five 
-Binary: 0b1000010111 
-Octal: 0o1027 
-Hex: 0x217

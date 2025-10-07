@@ -1,5 +1,0 @@
-Number: 96 
-Word: ninety-six 
-Binary: 0b1100000 
-Octal: 0o140 
-Hex: 0x60

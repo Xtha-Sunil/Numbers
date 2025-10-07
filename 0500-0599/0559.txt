@@ -1,5 +1,0 @@
-Number: 559 
-Word: five hundred and fifty-nine 
-Binary: 0b1000101111 
-Octal: 0o1057 
-Hex: 0x22f

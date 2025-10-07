@@ -1,5 +1,0 @@
-Number: 189 
-Word: one hundred and eighty-nine 
-Binary: 0b10111101 
-Octal: 0o275 
-Hex: 0xbd

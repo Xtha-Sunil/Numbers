@@ -1,5 +1,0 @@
-Number: 712
-Word: seven hundred and twelve
-Binary: 0b1011001000
-Octal: 0o1310
-Hex: 0x2c8

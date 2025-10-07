@@ -1,5 +1,0 @@
-Number: 168 
-Word: one hundred and sixty-eight 
-Binary: 0b10101000 
-Octal: 0o250 
-Hex: 0xa8

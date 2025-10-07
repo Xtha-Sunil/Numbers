@@ -1,5 +1,0 @@
-Number: 334 
-Word: three hundred and thirty-four 
-Binary: 0b101001110 
-Octal: 0o516 
-Hex: 0x14e

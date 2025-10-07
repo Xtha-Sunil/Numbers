@@ -1,5 +1,0 @@
-Number: 131 
-Word: one hundred and thirty-one 
-Binary: 0b10000011 
-Octal: 0o203 
-Hex: 0x83

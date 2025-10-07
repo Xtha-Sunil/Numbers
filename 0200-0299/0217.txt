@@ -1,5 +1,0 @@
-Number: 217 
-Word: two hundred and seventeen 
-Binary: 0b11011001 
-Octal: 0o331 
-Hex: 0xd9

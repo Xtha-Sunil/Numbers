@@ -1,5 +1,0 @@
-Number: 127 
-Word: one hundred and twenty-seven 
-Binary: 0b1111111 
-Octal: 0o177 
-Hex: 0x7f

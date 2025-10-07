@@ -1,5 +1,0 @@
-Number: 12 
-Word: twelve 
-Binary: 0b1100 
-Octal: 0o14 
-Hex: 0xc

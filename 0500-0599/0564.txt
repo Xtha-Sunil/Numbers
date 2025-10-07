@@ -1,5 +1,0 @@
-Number: 564 
-Word: five hundred and sixty-four 
-Binary: 0b1000110100 
-Octal: 0o1064 
-Hex: 0x234

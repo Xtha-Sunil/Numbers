@@ -1,5 +1,0 @@
-Number: 194 
-Word: one hundred and ninety-four 
-Binary: 0b11000010 
-Octal: 0o302 
-Hex: 0xc2

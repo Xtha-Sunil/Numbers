@@ -1,5 +1,0 @@
-Number: 632 
-Word: six hundred and thirty-two 
-Binary: 0b1001111000 
-Octal: 0o1170 
-Hex: 0x278

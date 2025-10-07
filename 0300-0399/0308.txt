@@ -1,5 +1,0 @@
-Number: 308 
-Word: three hundred and eight 
-Binary: 0b100110100 
-Octal: 0o464 
-Hex: 0x134

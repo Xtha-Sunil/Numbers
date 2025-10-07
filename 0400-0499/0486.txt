@@ -1,5 +1,0 @@
-Number: 486 
-Word: four hundred and eighty-six 
-Binary: 0b111100110 
-Octal: 0o746 
-Hex: 0x1e6

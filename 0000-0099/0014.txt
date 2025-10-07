@@ -1,5 +1,0 @@
-Number: 14 
-Word: fourteen 
-Binary: 0b1110 
-Octal: 0o16 
-Hex: 0xe

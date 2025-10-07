@@ -1,5 +1,0 @@
-Number: 540 
-Word: five hundred and forty 
-Binary: 0b1000011100 
-Octal: 0o1034 
-Hex: 0x21c

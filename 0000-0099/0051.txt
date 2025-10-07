@@ -1,5 +1,0 @@
-Number: 51 
-Word: fifty-one 
-Binary: 0b110011 
-Octal: 0o63 
-Hex: 0x33

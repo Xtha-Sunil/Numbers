@@ -1,5 +1,0 @@
-Number: 318 
-Word: three hundred and eighteen 
-Binary: 0b100111110 
-Octal: 0o476 
-Hex: 0x13e

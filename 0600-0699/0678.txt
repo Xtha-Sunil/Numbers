@@ -1,5 +1,0 @@
-Number: 678 
-Word: six hundred and seventy-eight 
-Binary: 0b1010100110 
-Octal: 0o1246 
-Hex: 0x2a6

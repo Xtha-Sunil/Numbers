@@ -1,5 +1,0 @@
-Number: 579 
-Word: five hundred and seventy-nine 
-Binary: 0b1001000011 
-Octal: 0o1103 
-Hex: 0x243

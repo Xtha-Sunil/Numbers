@@ -1,5 +1,0 @@
-Number: 703 
-Word: seven hundred and three 
-Binary: 0b1010111111 
-Octal: 0o1277 
-Hex: 0x2bf

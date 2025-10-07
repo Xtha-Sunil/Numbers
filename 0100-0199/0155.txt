@@ -1,5 +1,0 @@
-Number: 155 
-Word: one hundred and fifty-five 
-Binary: 0b10011011 
-Octal: 0o233 
-Hex: 0x9b

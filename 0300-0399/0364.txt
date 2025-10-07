@@ -1,5 +1,0 @@
-Number: 364 
-Word: three hundred and sixty-four 
-Binary: 0b101101100 
-Octal: 0o554 
-Hex: 0x16c

@@ -1,5 +1,0 @@
-Number: 185 
-Word: one hundred and eighty-five 
-Binary: 0b10111001 
-Octal: 0o271 
-Hex: 0xb9

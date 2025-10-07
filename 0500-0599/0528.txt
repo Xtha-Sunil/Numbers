@@ -1,5 +1,0 @@
-Number: 528 
-Word: five hundred and twenty-eight 
-Binary: 0b1000010000 
-Octal: 0o1020 
-Hex: 0x210

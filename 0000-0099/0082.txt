@@ -1,5 +1,0 @@
-Number: 82 
-Word: eighty-two 
-Binary: 0b1010010 
-Octal: 0o122 
-Hex: 0x52

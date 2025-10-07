@@ -1,5 +1,0 @@
-Number: 97 
-Word: ninety-seven 
-Binary: 0b1100001 
-Octal: 0o141 
-Hex: 0x61

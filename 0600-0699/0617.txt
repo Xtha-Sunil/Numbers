@@ -1,5 +1,0 @@
-Number: 617 
-Word: six hundred and seventeen 
-Binary: 0b1001101001 
-Octal: 0o1151 
-Hex: 0x269

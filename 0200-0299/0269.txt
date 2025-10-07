@@ -1,5 +1,0 @@
-Number: 269 
-Word: two hundred and sixty-nine 
-Binary: 0b100001101 
-Octal: 0o415 
-Hex: 0x10d

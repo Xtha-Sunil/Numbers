@@ -1,5 +1,0 @@
-Number: 700 
-Word: seven hundred 
-Binary: 0b1010111100 
-Octal: 0o1274 
-Hex: 0x2bc

@@ -1,5 +1,0 @@
-Number: 637 
-Word: six hundred and thirty-seven 
-Binary: 0b1001111101 
-Octal: 0o1175 
-Hex: 0x27d

@@ -1,5 +1,0 @@
-Number: 147 
-Word: one hundred and forty-seven 
-Binary: 0b10010011 
-Octal: 0o223 
-Hex: 0x93

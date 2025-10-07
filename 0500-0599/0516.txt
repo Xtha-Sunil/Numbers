@@ -1,5 +1,0 @@
-Number: 516 
-Word: five hundred and sixteen 
-Binary: 0b1000000100 
-Octal: 0o1004 
-Hex: 0x204

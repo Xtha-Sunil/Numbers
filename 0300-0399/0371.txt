@@ -1,5 +1,0 @@
-Number: 371 
-Word: three hundred and seventy-one 
-Binary: 0b101110011 
-Octal: 0o563 
-Hex: 0x173

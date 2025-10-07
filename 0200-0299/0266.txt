@@ -1,5 +1,0 @@
-Number: 266 
-Word: two hundred and sixty-six 
-Binary: 0b100001010 
-Octal: 0o412 
-Hex: 0x10a

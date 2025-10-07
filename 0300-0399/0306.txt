@@ -1,5 +1,0 @@
-Number: 306 
-Word: three hundred and six 
-Binary: 0b100110010 
-Octal: 0o462 
-Hex: 0x132

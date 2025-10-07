@@ -1,5 +1,0 @@
-Number: 248 
-Word: two hundred and forty-eight 
-Binary: 0b11111000 
-Octal: 0o370 
-Hex: 0xf8

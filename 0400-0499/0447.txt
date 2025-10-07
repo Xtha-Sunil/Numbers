@@ -1,5 +1,0 @@
-Number: 447 
-Word: four hundred and forty-seven 
-Binary: 0b110111111 
-Octal: 0o677 
-Hex: 0x1bf

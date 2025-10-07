@@ -1,5 +1,0 @@
-Number: 444 
-Word: four hundred and forty-four 
-Binary: 0b110111100 
-Octal: 0o674 
-Hex: 0x1bc

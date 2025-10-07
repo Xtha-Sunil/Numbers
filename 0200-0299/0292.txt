@@ -1,5 +1,0 @@
-Number: 292 
-Word: two hundred and ninety-two 
-Binary: 0b100100100 
-Octal: 0o444 
-Hex: 0x124

@@ -1,5 +1,0 @@
-Number: 117 
-Word: one hundred and seventeen 
-Binary: 0b1110101 
-Octal: 0o165 
-Hex: 0x75

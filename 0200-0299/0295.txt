@@ -1,5 +1,0 @@
-Number: 295 
-Word: two hundred and ninety-five 
-Binary: 0b100100111 
-Octal: 0o447 
-Hex: 0x127

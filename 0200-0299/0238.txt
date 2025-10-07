@@ -1,5 +1,0 @@
-Number: 238 
-Word: two hundred and thirty-eight 
-Binary: 0b11101110 
-Octal: 0o356 
-Hex: 0xee

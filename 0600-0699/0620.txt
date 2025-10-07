@@ -1,5 +1,0 @@
-Number: 620 
-Word: six hundred and twenty 
-Binary: 0b1001101100 
-Octal: 0o1154 
-Hex: 0x26c

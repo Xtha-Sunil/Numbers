@@ -1,5 +1,0 @@
-Number: 279 
-Word: two hundred and seventy-nine 
-Binary: 0b100010111 
-Octal: 0o427 
-Hex: 0x117

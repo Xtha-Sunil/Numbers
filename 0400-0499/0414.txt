@@ -1,5 +1,0 @@
-Number: 414 
-Word: four hundred and fourteen 
-Binary: 0b110011110 
-Octal: 0o636 
-Hex: 0x19e

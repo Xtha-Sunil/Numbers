@@ -1,5 +1,0 @@
-Number: 92 
-Word: ninety-two 
-Binary: 0b1011100 
-Octal: 0o134 
-Hex: 0x5c

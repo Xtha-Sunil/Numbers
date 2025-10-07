@@ -1,5 +1,0 @@
-Number: 434 
-Word: four hundred and thirty-four 
-Binary: 0b110110010 
-Octal: 0o662 
-Hex: 0x1b2

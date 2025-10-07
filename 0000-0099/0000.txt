@@ -1,5 +1,0 @@
-Number: 0 
-Word: zero 
-Binary: 0b0 
-Octal: 0o0 
-Hex: 0x0

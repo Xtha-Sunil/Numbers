@@ -1,5 +1,0 @@
-Number: 274 
-Word: two hundred and seventy-four 
-Binary: 0b100010010 
-Octal: 0o422 
-Hex: 0x112

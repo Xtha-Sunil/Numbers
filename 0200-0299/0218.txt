@@ -1,5 +1,0 @@
-Number: 218 
-Word: two hundred and eighteen 
-Binary: 0b11011010 
-Octal: 0o332 
-Hex: 0xda

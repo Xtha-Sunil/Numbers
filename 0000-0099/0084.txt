@@ -1,5 +1,0 @@
-Number: 84 
-Word: eighty-four 
-Binary: 0b1010100 
-Octal: 0o124 
-Hex: 0x54

@@ -1,5 +1,0 @@
-Number: 525 
-Word: five hundred and twenty-five 
-Binary: 0b1000001101 
-Octal: 0o1015 
-Hex: 0x20d

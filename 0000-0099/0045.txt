@@ -1,5 +1,0 @@
-Number: 45 
-Word: forty-five 
-Binary: 0b101101 
-Octal: 0o55 
-Hex: 0x2d

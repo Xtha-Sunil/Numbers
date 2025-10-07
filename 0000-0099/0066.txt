@@ -1,5 +1,0 @@
-Number: 66 
-Word: sixty-six 
-Binary: 0b1000010 
-Octal: 0o102 
-Hex: 0x42

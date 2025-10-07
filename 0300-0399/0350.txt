@@ -1,5 +1,0 @@
-Number: 350 
-Word: three hundred and fifty 
-Binary: 0b101011110 
-Octal: 0o536 
-Hex: 0x15e

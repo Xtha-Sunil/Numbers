@@ -1,5 +1,0 @@
-Number: 544 
-Word: five hundred and forty-four 
-Binary: 0b1000100000 
-Octal: 0o1040 
-Hex: 0x220

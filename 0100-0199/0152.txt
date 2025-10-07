@@ -1,5 +1,0 @@
-Number: 152 
-Word: one hundred and fifty-two 
-Binary: 0b10011000 
-Octal: 0o230 
-Hex: 0x98

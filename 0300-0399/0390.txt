@@ -1,5 +1,0 @@
-Number: 390 
-Word: three hundred and ninety 
-Binary: 0b110000110 
-Octal: 0o606 
-Hex: 0x186

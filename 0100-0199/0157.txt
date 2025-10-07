@@ -1,5 +1,0 @@
-Number: 157 
-Word: one hundred and fifty-seven 
-Binary: 0b10011101 
-Octal: 0o235 
-Hex: 0x9d

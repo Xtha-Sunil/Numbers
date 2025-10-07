@@ -1,5 +1,0 @@
-Number: 629 
-Word: six hundred and twenty-nine 
-Binary: 0b1001110101 
-Octal: 0o1165 
-Hex: 0x275

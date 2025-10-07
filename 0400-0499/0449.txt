@@ -1,5 +1,0 @@
-Number: 449 
-Word: four hundred and forty-nine 
-Binary: 0b111000001 
-Octal: 0o701 
-Hex: 0x1c1

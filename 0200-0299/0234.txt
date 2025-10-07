@@ -1,5 +1,0 @@
-Number: 234 
-Word: two hundred and thirty-four 
-Binary: 0b11101010 
-Octal: 0o352 
-Hex: 0xea

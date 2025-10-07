@@ -1,5 +1,0 @@
-Number: 450 
-Word: four hundred and fifty 
-Binary: 0b111000010 
-Octal: 0o702 
-Hex: 0x1c2

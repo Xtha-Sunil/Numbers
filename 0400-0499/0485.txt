@@ -1,5 +1,0 @@
-Number: 485 
-Word: four hundred and eighty-five 
-Binary: 0b111100101 
-Octal: 0o745 
-Hex: 0x1e5

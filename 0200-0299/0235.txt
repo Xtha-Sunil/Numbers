@@ -1,5 +1,0 @@
-Number: 235 
-Word: two hundred and thirty-five 
-Binary: 0b11101011 
-Octal: 0o353 
-Hex: 0xeb

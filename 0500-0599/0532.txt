@@ -1,5 +1,0 @@
-Number: 532 
-Word: five hundred and thirty-two 
-Binary: 0b1000010100 
-Octal: 0o1024 
-Hex: 0x214

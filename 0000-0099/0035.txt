@@ -1,5 +1,0 @@
-Number: 35 
-Word: thirty-five 
-Binary: 0b100011 
-Octal: 0o43 
-Hex: 0x23

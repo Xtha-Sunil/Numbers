@@ -1,5 +1,0 @@
-Number: 658 
-Word: six hundred and fifty-eight 
-Binary: 0b1010010010 
-Octal: 0o1222 
-Hex: 0x292

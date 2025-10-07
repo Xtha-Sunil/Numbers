@@ -1,5 +1,0 @@
-Number: 136 
-Word: one hundred and thirty-six 
-Binary: 0b10001000 
-Octal: 0o210 
-Hex: 0x88

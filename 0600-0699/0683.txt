@@ -1,5 +1,0 @@
-Number: 683 
-Word: six hundred and eighty-three 
-Binary: 0b1010101011 
-Octal: 0o1253 
-Hex: 0x2ab

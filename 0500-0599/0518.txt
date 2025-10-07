@@ -1,5 +1,0 @@
-Number: 518 
-Word: five hundred and eighteen 
-Binary: 0b1000000110 
-Octal: 0o1006 
-Hex: 0x206

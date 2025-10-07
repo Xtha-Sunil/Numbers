@@ -1,5 +1,0 @@
-Number: 437 
-Word: four hundred and thirty-seven 
-Binary: 0b110110101 
-Octal: 0o665 
-Hex: 0x1b5

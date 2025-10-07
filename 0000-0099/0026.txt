@@ -1,5 +1,0 @@
-Number: 26 
-Word: twenty-six 
-Binary: 0b11010 
-Octal: 0o32 
-Hex: 0x1a

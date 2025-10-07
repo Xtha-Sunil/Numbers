@@ -1,5 +1,0 @@
-Number: 197 
-Word: one hundred and ninety-seven 
-Binary: 0b11000101 
-Octal: 0o305 
-Hex: 0xc5

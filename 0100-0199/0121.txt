@@ -1,5 +1,0 @@
-Number: 121 
-Word: one hundred and twenty-one 
-Binary: 0b1111001 
-Octal: 0o171 
-Hex: 0x79

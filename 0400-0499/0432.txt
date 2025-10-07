@@ -1,5 +1,0 @@
-Number: 432 
-Word: four hundred and thirty-two 
-Binary: 0b110110000 
-Octal: 0o660 
-Hex: 0x1b0

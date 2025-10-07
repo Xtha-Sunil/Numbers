@@ -1,5 +1,0 @@
-Number: 101 
-Word: one hundred and one 
-Binary: 0b1100101 
-Octal: 0o145 
-Hex: 0x65

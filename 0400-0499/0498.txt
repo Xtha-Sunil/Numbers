@@ -1,5 +1,0 @@
-Number: 498 
-Word: four hundred and ninety-eight 
-Binary: 0b111110010 
-Octal: 0o762 
-Hex: 0x1f2

@@ -1,5 +1,0 @@
-Number: 190 
-Word: one hundred and ninety 
-Binary: 0b10111110 
-Octal: 0o276 
-Hex: 0xbe

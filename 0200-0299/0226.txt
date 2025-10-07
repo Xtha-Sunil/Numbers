@@ -1,5 +1,0 @@
-Number: 226 
-Word: two hundred and twenty-six 
-Binary: 0b11100010 
-Octal: 0o342 
-Hex: 0xe2

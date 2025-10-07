@@ -1,5 +1,0 @@
-Number: 641 
-Word: six hundred and forty-one 
-Binary: 0b1010000001 
-Octal: 0o1201 
-Hex: 0x281

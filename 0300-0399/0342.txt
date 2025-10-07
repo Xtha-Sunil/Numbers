@@ -1,5 +1,0 @@
-Number: 342 
-Word: three hundred and forty-two 
-Binary: 0b101010110 
-Octal: 0o526 
-Hex: 0x156

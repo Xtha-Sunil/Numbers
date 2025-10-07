@@ -1,5 +1,0 @@
-Number: 439 
-Word: four hundred and thirty-nine 
-Binary: 0b110110111 
-Octal: 0o667 
-Hex: 0x1b7

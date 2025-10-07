@@ -1,5 +1,0 @@
-Number: 134 
-Word: one hundred and thirty-four 
-Binary: 0b10000110 
-Octal: 0o206 
-Hex: 0x86

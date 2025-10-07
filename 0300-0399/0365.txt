@@ -1,5 +1,0 @@
-Number: 365 
-Word: three hundred and sixty-five 
-Binary: 0b101101101 
-Octal: 0o555 
-Hex: 0x16d

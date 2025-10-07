@@ -1,5 +1,0 @@
-Number: 110 
-Word: one hundred and ten 
-Binary: 0b1101110 
-Octal: 0o156 
-Hex: 0x6e

@@ -1,5 +1,0 @@
-Number: 493 
-Word: four hundred and ninety-three 
-Binary: 0b111101101 
-Octal: 0o755 
-Hex: 0x1ed

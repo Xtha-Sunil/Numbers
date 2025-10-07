@@ -1,5 +1,0 @@
-Number: 245 
-Word: two hundred and forty-five 
-Binary: 0b11110101 
-Octal: 0o365 
-Hex: 0xf5

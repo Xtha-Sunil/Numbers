@@ -1,5 +1,0 @@
-Number: 668 
-Word: six hundred and sixty-eight 
-Binary: 0b1010011100 
-Octal: 0o1234 
-Hex: 0x29c

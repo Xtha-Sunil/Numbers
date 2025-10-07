@@ -1,5 +1,0 @@
-Number: 27 
-Word: twenty-seven 
-Binary: 0b11011 
-Octal: 0o33 
-Hex: 0x1b

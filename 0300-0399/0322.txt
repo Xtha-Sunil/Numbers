@@ -1,5 +1,0 @@
-Number: 322 
-Word: three hundred and twenty-two 
-Binary: 0b101000010 
-Octal: 0o502 
-Hex: 0x142

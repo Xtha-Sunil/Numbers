@@ -1,5 +1,0 @@
-Number: 256 
-Word: two hundred and fifty-six 
-Binary: 0b100000000 
-Octal: 0o400 
-Hex: 0x100

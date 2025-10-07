@@ -1,5 +1,0 @@
-Number: 10 
-Word: ten 
-Binary: 0b1010 
-Octal: 0o12 
-Hex: 0xa

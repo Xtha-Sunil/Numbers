@@ -1,5 +1,0 @@
-Number: 71 
-Word: seventy-one 
-Binary: 0b1000111 
-Octal: 0o107 
-Hex: 0x47

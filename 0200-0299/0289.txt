@@ -1,5 +1,0 @@
-Number: 289 
-Word: two hundred and eighty-nine 
-Binary: 0b100100001 
-Octal: 0o441 
-Hex: 0x121

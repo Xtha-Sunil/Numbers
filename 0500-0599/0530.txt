@@ -1,5 +1,0 @@
-Number: 530 
-Word: five hundred and thirty 
-Binary: 0b1000010010 
-Octal: 0o1022 
-Hex: 0x212

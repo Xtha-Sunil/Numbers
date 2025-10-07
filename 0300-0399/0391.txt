@@ -1,5 +1,0 @@
-Number: 391 
-Word: three hundred and ninety-one 
-Binary: 0b110000111 
-Octal: 0o607 
-Hex: 0x187

@@ -1,5 +1,0 @@
-Number: 202 
-Word: two hundred and two 
-Binary: 0b11001010 
-Octal: 0o312 
-Hex: 0xca

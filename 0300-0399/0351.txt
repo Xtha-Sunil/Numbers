@@ -1,5 +1,0 @@
-Number: 351 
-Word: three hundred and fifty-one 
-Binary: 0b101011111 
-Octal: 0o537 
-Hex: 0x15f

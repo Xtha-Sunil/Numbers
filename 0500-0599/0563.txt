@@ -1,5 +1,0 @@
-Number: 563 
-Word: five hundred and sixty-three 
-Binary: 0b1000110011 
-Octal: 0o1063 
-Hex: 0x233

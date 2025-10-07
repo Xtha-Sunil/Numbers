@@ -1,5 +1,0 @@
-Number: 480 
-Word: four hundred and eighty 
-Binary: 0b111100000 
-Octal: 0o740 
-Hex: 0x1e0

@@ -1,5 +1,0 @@
-Number: 472 
-Word: four hundred and seventy-two 
-Binary: 0b111011000 
-Octal: 0o730 
-Hex: 0x1d8

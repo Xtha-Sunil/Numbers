@@ -1,5 +1,0 @@
-Number: 595 
-Word: five hundred and ninety-five 
-Binary: 0b1001010011 
-Octal: 0o1123 
-Hex: 0x253

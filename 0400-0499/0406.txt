@@ -1,5 +1,0 @@
-Number: 406 
-Word: four hundred and six 
-Binary: 0b110010110 
-Octal: 0o626 
-Hex: 0x196

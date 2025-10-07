@@ -1,5 +1,0 @@
-Number: 179 
-Word: one hundred and seventy-nine 
-Binary: 0b10110011 
-Octal: 0o263 
-Hex: 0xb3

@@ -1,5 +1,0 @@
-Number: 574 
-Word: five hundred and seventy-four 
-Binary: 0b1000111110 
-Octal: 0o1076 
-Hex: 0x23e

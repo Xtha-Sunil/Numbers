@@ -1,5 +1,0 @@
-Number: 149 
-Word: one hundred and forty-nine 
-Binary: 0b10010101 
-Octal: 0o225 
-Hex: 0x95

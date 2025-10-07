@@ -1,5 +1,0 @@
-Number: 420 
-Word: four hundred and twenty 
-Binary: 0b110100100 
-Octal: 0o644 
-Hex: 0x1a4

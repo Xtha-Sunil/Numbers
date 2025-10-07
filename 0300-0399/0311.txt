@@ -1,5 +1,0 @@
-Number: 311 
-Word: three hundred and eleven 
-Binary: 0b100110111 
-Octal: 0o467 
-Hex: 0x137

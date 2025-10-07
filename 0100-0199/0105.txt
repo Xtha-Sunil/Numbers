@@ -1,5 +1,0 @@
-Number: 105 
-Word: one hundred and five 
-Binary: 0b1101001 
-Octal: 0o151 
-Hex: 0x69

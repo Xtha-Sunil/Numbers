@@ -1,5 +1,0 @@
-Number: 282 
-Word: two hundred and eighty-two 
-Binary: 0b100011010 
-Octal: 0o432 
-Hex: 0x11a

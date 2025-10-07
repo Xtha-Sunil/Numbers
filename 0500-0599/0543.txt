@@ -1,5 +1,0 @@
-Number: 543 
-Word: five hundred and forty-three 
-Binary: 0b1000011111 
-Octal: 0o1037 
-Hex: 0x21f

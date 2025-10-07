@@ -1,5 +1,0 @@
-Number: 104 
-Word: one hundred and four 
-Binary: 0b1101000 
-Octal: 0o150 
-Hex: 0x68

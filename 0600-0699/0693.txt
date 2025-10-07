@@ -1,5 +1,0 @@
-Number: 693 
-Word: six hundred and ninety-three 
-Binary: 0b1010110101 
-Octal: 0o1265 
-Hex: 0x2b5

@@ -1,5 +1,0 @@
-Number: 445 
-Word: four hundred and forty-five 
-Binary: 0b110111101 
-Octal: 0o675 
-Hex: 0x1bd

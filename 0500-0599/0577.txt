@@ -1,5 +1,0 @@
-Number: 577 
-Word: five hundred and seventy-seven 
-Binary: 0b1001000001 
-Octal: 0o1101 
-Hex: 0x241

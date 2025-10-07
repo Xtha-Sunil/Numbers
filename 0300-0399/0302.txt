@@ -1,5 +1,0 @@
-Number: 302 
-Word: three hundred and two 
-Binary: 0b100101110 
-Octal: 0o456 
-Hex: 0x12e

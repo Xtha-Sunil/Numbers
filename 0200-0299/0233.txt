@@ -1,5 +1,0 @@
-Number: 233 
-Word: two hundred and thirty-three 
-Binary: 0b11101001 
-Octal: 0o351 
-Hex: 0xe9

@@ -1,5 +1,0 @@
-Number: 363 
-Word: three hundred and sixty-three 
-Binary: 0b101101011 
-Octal: 0o553 
-Hex: 0x16b

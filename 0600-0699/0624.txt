@@ -1,5 +1,0 @@
-Number: 624 
-Word: six hundred and twenty-four 
-Binary: 0b1001110000 
-Octal: 0o1160 
-Hex: 0x270

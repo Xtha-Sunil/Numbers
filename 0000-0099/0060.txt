@@ -1,5 +1,0 @@
-Number: 60 
-Word: sixty 
-Binary: 0b111100 
-Octal: 0o74 
-Hex: 0x3c

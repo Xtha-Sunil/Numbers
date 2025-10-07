@@ -1,5 +1,0 @@
-Number: 335 
-Word: three hundred and thirty-five 
-Binary: 0b101001111 
-Octal: 0o517 
-Hex: 0x14f

@@ -1,5 +1,0 @@
-Number: 370 
-Word: three hundred and seventy 
-Binary: 0b101110010 
-Octal: 0o562 
-Hex: 0x172

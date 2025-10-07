@@ -1,5 +1,0 @@
-Number: 639 
-Word: six hundred and thirty-nine 
-Binary: 0b1001111111 
-Octal: 0o1177 
-Hex: 0x27f

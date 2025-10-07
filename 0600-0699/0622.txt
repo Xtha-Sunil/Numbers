@@ -1,5 +1,0 @@
-Number: 622 
-Word: six hundred and twenty-two 
-Binary: 0b1001101110 
-Octal: 0o1156 
-Hex: 0x26e

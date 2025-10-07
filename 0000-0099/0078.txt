@@ -1,5 +1,0 @@
-Number: 78 
-Word: seventy-eight 
-Binary: 0b1001110 
-Octal: 0o116 
-Hex: 0x4e

@@ -1,5 +1,0 @@
-Number: 696 
-Word: six hundred and ninety-six 
-Binary: 0b1010111000 
-Octal: 0o1270 
-Hex: 0x2b8

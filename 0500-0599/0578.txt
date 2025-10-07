@@ -1,5 +1,0 @@
-Number: 578 
-Word: five hundred and seventy-eight 
-Binary: 0b1001000010 
-Octal: 0o1102 
-Hex: 0x242

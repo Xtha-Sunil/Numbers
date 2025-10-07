@@ -1,5 +1,0 @@
-Number: 225 
-Word: two hundred and twenty-five 
-Binary: 0b11100001 
-Octal: 0o341 
-Hex: 0xe1

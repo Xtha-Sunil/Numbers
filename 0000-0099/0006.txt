@@ -1,5 +1,0 @@
-Number: 6 
-Word: six 
-Binary: 0b110 
-Octal: 0o6 
-Hex: 0x6

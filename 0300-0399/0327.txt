@@ -1,5 +1,0 @@
-Number: 327 
-Word: three hundred and twenty-seven 
-Binary: 0b101000111 
-Octal: 0o507 
-Hex: 0x147

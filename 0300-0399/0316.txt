@@ -1,5 +1,0 @@
-Number: 316 
-Word: three hundred and sixteen 
-Binary: 0b100111100 
-Octal: 0o474 
-Hex: 0x13c

@@ -1,5 +1,0 @@
-Number: 203 
-Word: two hundred and three 
-Binary: 0b11001011 
-Octal: 0o313 
-Hex: 0xcb

@@ -1,5 +1,0 @@
-Number: 331 
-Word: three hundred and thirty-one 
-Binary: 0b101001011 
-Octal: 0o513 
-Hex: 0x14b

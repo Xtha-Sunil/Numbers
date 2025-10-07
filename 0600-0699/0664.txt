@@ -1,5 +1,0 @@
-Number: 664 
-Word: six hundred and sixty-four 
-Binary: 0b1010011000 
-Octal: 0o1230 
-Hex: 0x298

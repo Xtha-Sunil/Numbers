@@ -1,5 +1,0 @@
-Number: 687 
-Word: six hundred and eighty-seven 
-Binary: 0b1010101111 
-Octal: 0o1257 
-Hex: 0x2af

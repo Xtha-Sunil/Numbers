@@ -1,5 +1,0 @@
-Number: 453 
-Word: four hundred and fifty-three 
-Binary: 0b111000101 
-Octal: 0o705 
-Hex: 0x1c5

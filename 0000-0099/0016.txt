@@ -1,5 +1,0 @@
-Number: 16 
-Word: sixteen 
-Binary: 0b10000 
-Octal: 0o20 
-Hex: 0x10

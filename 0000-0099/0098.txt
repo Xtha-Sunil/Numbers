@@ -1,5 +1,0 @@
-Number: 98 
-Word: ninety-eight 
-Binary: 0b1100010 
-Octal: 0o142 
-Hex: 0x62

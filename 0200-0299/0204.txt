@@ -1,5 +1,0 @@
-Number: 204 
-Word: two hundred and four 
-Binary: 0b11001100 
-Octal: 0o314 
-Hex: 0xcc

@@ -1,5 +1,0 @@
-Number: 214 
-Word: two hundred and fourteen 
-Binary: 0b11010110 
-Octal: 0o326 
-Hex: 0xd6

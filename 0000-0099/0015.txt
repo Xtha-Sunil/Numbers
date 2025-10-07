@@ -1,5 +1,0 @@
-Number: 15 
-Word: fifteen 
-Binary: 0b1111 
-Octal: 0o17 
-Hex: 0xf

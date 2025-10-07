@@ -1,5 +1,0 @@
-Number: 621 
-Word: six hundred and twenty-one 
-Binary: 0b1001101101 
-Octal: 0o1155 
-Hex: 0x26d

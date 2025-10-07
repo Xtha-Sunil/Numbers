@@ -1,5 +1,0 @@
-Number: 32 
-Word: thirty-two 
-Binary: 0b100000 
-Octal: 0o40 
-Hex: 0x20

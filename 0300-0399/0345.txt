@@ -1,5 +1,0 @@
-Number: 345 
-Word: three hundred and forty-five 
-Binary: 0b101011001 
-Octal: 0o531 
-Hex: 0x159
