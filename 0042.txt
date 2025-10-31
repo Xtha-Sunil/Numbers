@@ -1,0 +1,5 @@
+Number : 42
+Word   : Forty-Two
+Binary : 0b101010
+Octal  : 0o52
+Hex    : 0x2A
