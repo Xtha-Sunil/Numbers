@@ -1,0 +1,5 @@
+Number : 19
+Word   : Nineteen
+Binary : 0b10011
+Octal  : 0o23
+Hex    : 0x13
