@@ -1,0 +1,5 @@
+Number : 21
+Word   : Twenty-One
+Binary : 0b10101
+Octal  : 0o25
+Hex    : 0x15
