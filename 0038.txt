@@ -1,0 +1,5 @@
+Number : 38
+Word   : Thirty-Eight
+Binary : 0b100110
+Octal  : 0o46
+Hex    : 0x26
