@@ -1,0 +1,5 @@
+Number : 13
+Word   : Thirteen
+Binary : 0b1101
+Octal  : 0o15
+Hex    : 0xD
