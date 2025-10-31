@@ -1,0 +1,5 @@
+Number : 9
+Word   : Nine
+Binary : 0b1001
+Octal  : 0o11
+Hex    : 0x9
