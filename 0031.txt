@@ -1,0 +1,5 @@
+Number : 31
+Word   : Thirty-One
+Binary : 0b11111
+Octal  : 0o37
+Hex    : 0x1F
