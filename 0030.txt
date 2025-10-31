@@ -1,0 +1,5 @@
+Number : 30
+Word   : Thirty
+Binary : 0b11110
+Octal  : 0o36
+Hex    : 0x1E
