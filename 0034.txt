@@ -1,0 +1,5 @@
+Number : 34
+Word   : Thirty-Four
+Binary : 0b100010
+Octal  : 0o42
+Hex    : 0x22
