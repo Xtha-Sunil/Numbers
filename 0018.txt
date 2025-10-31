@@ -1,0 +1,5 @@
+Number : 18
+Word   : Eighteen
+Binary : 0b10010
+Octal  : 0o22
+Hex    : 0x12
