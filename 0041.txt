@@ -1,5 +1,0 @@
-Number : 41
-Word   : Forty-One
-Binary : 0b101001
-Octal  : 0o51
-Hex    : 0x29
