@@ -1,0 +1,5 @@
+Number : 22
+Word   : Twenty-Two
+Binary : 0b10110
+Octal  : 0o26
+Hex    : 0x16
